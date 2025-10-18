@@ -1,48 +1,70 @@
-<div align="center">
+<div align="center" style="background: #1a1a1a; padding: 20px; border: 2px solid #ff0000; box-shadow: 0 0 10px #ff0000; font-family: 'Arial', sans-serif;">
 
-# 🔥 VAIBHAV VERMA 🔥
+# <span style="color: #ff0000; font-size: 36px; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000; animation: flicker 1.5s infinite alternate;">🔥 VAIBHAV VERMA 🔥</span>
+
+<style>
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000; }
+  20%, 24%, 55% { opacity: 0.6; text-shadow: none; }
+}
+</style>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="color: #ff0000; font-family: 'Arial', sans-serif; text-shadow: 0 0 5px #ff0000;">
 
 ### ▀▄▀▄▀▄ WELCOME TO THE UPSIDE DOWN ▄▀▄▀▄▀
-### *Where Innovation Meets Imagination*
+### *<span style="animation: pulse 2s infinite;">Where Innovation Meets Imagination</span>*
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+</style>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Status-🔴_ACTIVE-FF0000?style=flat-square&labelColor=000000&color=FF0000" style="animation: glow 1.5s infinite alternate; margin: 5px;">
+  <img src="https://img.shields.io/badge/Followers-1K+-red?style=flat-square&labelColor=000000&color=FF0000" style="animation: glow 1.5s infinite alternate; margin: 5px;">
+  <img src="https://img.shields.io/badge/Projects-50+-FF0000?style=flat-square&labelColor=000000&color=FF0000" style="animation: glow 1.5s infinite alternate; margin: 5px;">
 
-![Status](https://img.shields.io/badge/Status-🔴_ACTIVE-FF0000?style=flat-square)
-![Followers](https://img.shields.io/badge/Followers-1K+-red?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-50+-FF0000?style=flat-square)
-
+<style>
+@keyframes glow {
+  0% { box-shadow: 0 0 5px #ff0000; }
+  100% { box-shadow: 0 0 15px #ff0000; }
+}
+</style>
 </div>
 
 ---
 
 ## 🔗 CONNECT WITH ME
 
-<div align="center">
+<div align="center" style="color: #ff0000; font-family: 'Arial', sans-serif;">
+  <a href="https://vaibhav-verma.netlify.app" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">🌐 Portfolio</a> • 
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">✉️ Email</a> • 
+  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">💼 LinkedIn</a> • 
+  <a href="https://www.instagram.com/vaibhav_verma25_/" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">📸 Instagram</a> • 
+  <a href="https://huggingface.co/VAIBHAV22334455" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">🤗 HuggingFace</a> • 
+  <a href="https://github.com/vaibhav2225" style="color: #ff0000; text-decoration: none; margin: 0 10px; transition: all 0.3s;">💻 GitHub</a>
 
-[🌐 Portfolio](https://vaibhav-verma.netlify.app) • 
-[✉️ Email](mailto:v.v.a.i.b.h.a.v.2233@gmail.com) • 
-[💼 LinkedIn](https://www.linkedin.com/in/vaibhav-verma-6548802a1/) • 
-[📸 Instagram](https://www.instagram.com/vaibhav_verma25_/) • 
-[🤗 HuggingFace](https://huggingface.co/VAIBHAV22334455) • 
-[💻 GitHub](https://github.com/vaibhav2225)
-
+<style>
+a:hover { text-shadow: 0 0 10px #ff0000; transform: scale(1.1); }
+</style>
 </div>
 
 ---
 
 ## 🏅 CLEARANCE BADGES
 
-```
+```plaintext
 ████████████████████████████████████████
 █ 👑 Founder: INSCIPE
 █ 🤖 AI Engineer (Expert)
@@ -59,13 +81,13 @@
 ## 🧠 SKILLS MATRIX
 
 ### 🔴 PROGRAMMING LANGUAGES
-```
+```plaintext
 🔵 Python      | 🔵 JavaScript  | 🔵 TypeScript
 🔵 Java        | 🔵 C++         | 🔵 SQL
 ```
 
 ### 🔴 DATABASE EXPERTISE (PROFESSIONAL)
-```
+```plaintext
 📊 PostgreSQL    →  Advanced queries, ACID compliance, transactions
 📊 MongoDB       →  Document design, aggregation pipelines, scaling
 📊 Firebase      →  Real-time DB, authentication, cloud functions
@@ -74,21 +96,21 @@
 ```
 
 ### ⚡ PROMPT ENGINEERING (PROFESSIONAL MASTERY)
-```
+```plaintext
 🎯 Chain-of-Thought       | 🎯 Few-Shot Learning
 🎯 Instruction Tuning     | 🎯 Context Management
 🎯 Multi-Turn Dialogue    | 🎯 Custom GPT Creation
 ```
 
 ### 🤖 AI/ML EXPERTISE
-```
+```plaintext
 🧠 Large Language Models  | 🧠 NLP & Transformers
 🧠 Emotion Recognition    | 🧠 Model Fine-tuning
 🧠 PyTorch & TensorFlow   | 🧠 Hugging Face
 ```
 
 ### 🎨 TECH STACK
-```
+```plaintext
 Frontend    → Next.js, React, Tailwind CSS
 Backend     → Node.js, Express, FastAPI
 DevOps      → Docker, Git, Linux, AWS
@@ -157,7 +179,7 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 
 ## 🔮 MISSION
 
-```
+```plaintext
 ████████████████████████████████
 █ Transform Ideas Into Reality
 █ Bridge Human & AI
@@ -196,21 +218,39 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 
 ---
 
-## 💬 LET'S CONNECT
+## 🎵 NOW PLAYING
+
+```plaintext
+🎧 Kate Bush - Running Up That Hill
+📍 Stranger Things Anthem
+💿 The Ultimate Upside Down Soundtrack
+```
 
 <div align="center">
 
-**Have an idea? Let's build something extraordinary!**
+<img src="https://img.shields.io/badge/🎵_Listen_On_Spotify-1DB954?style=flat-square" style="animation: glow 1.5s infinite alternate;">
 
-[![Email](https://img.shields.io/badge/📧_Get_In_Touch-FF0000?style=for-the-badge)](mailto:v.v.a.i.b.h.a.v.2233@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-FF0000?style=for-the-badge)](https://vaibhav-verma.netlify.app)
-[![GitHub](https://img.shields.io/badge/💻_View_Projects-000000?style=for-the-badge)](https://github.com/vaibhav2225)
+*This song captures the essence of never giving up, even when facing impossible odds.*
 
 </div>
 
 ---
 
-<div align="center">
+## 💬 LET'S CONNECT
+
+<div align="center" style="color: #ff0000; font-family: 'Arial', sans-serif;">
+
+**Have an idea? Let's build something extraordinary!**
+
+<a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com" style="margin: 5px;"><img src="https://img.shields.io/badge/📧_Get_In_Touch-FF0000?style=for-the-badge" style="animation: glow 1.5s infinite alternate;"></a>
+<a href="https://vaibhav-verma.netlify.app" style="margin: 5px;"><img src="https://img.shields.io/badge/🌐_View_Portfolio-FF0000?style=for-the-badge" style="animation: glow 1.5s infinite alternate;"></a>
+<a href="https://github.com/vaibhav2225" style="margin: 5px;"><img src="https://img.shields.io/badge/💻_View_Projects-000000?style=for-the-badge" style="animation: glow 1.5s infinite alternate;"></a>
+
+</div>
+
+---
+
+<div align="center" style="color: #ff0000; font-family: 'Arial', sans-serif; text-shadow: 0 0 5px #ff0000; border-top: 2px solid #ff0000; border-bottom: 2px solid #ff0000; padding: 10px;">
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
