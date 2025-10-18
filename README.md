@@ -9,9 +9,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-🌌_ACTIVE-FFFFFF?style=for-the-badge&logo=rocket&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Status" />
-    <img src="https://img.shields.io/badge/Followers-1K+-FFFFFF?style=for-the-badge&logo=github&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Followers" />
-    <img src="https://img.shields.io/badge/Projects-50+-FFFFFF?style=for-the-badge&logo=codepen&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Projects" />
-    <img src="https://img.shields.io/badge/Commits-500+-FFFFFF?style=for-the-badge&logo=git&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Commits" />
   </p>
 </div>
 
@@ -95,7 +92,7 @@ class NeonMatrix:
   <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Instagram" /></a>
   <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="HuggingFace" /></a>
-  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="GitHub" /></a>
+  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FFFFFF?style-for-the-badge&logo=github&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="GitHub" /></a>
 </div>
 
 ---
@@ -175,116 +172,79 @@ class NeonMatrix:
 
 ## 🎯 Cosmic Missions
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚡ NOVA-3B</h3>
-      <p><em>Emotion-Aware LLM</em></p>
-      ```mermaid
-      pie title Neural Core
-          "PyTorch" : 40
-          "Transformers" : 30
-          "Emotion AI" : 20
-          "HuggingFace" : 10
-      ```
-      <p><strong>Status:</strong> 🟢 Active</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛍️ INSCIPE</h3>
-      <p><em>AI Commerce Matrix</em></p>
-      ```mermaid
-      pie title Features
-          "AI Recommendations" : 30
-          "Personalization" : 25
-          "Analytics" : 25
-          "Marketplace" : 20
-      ```
-      <p><strong>Status:</strong> 🟢 Live</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 JARVIS</h3>
-      <p><em>Automation Core</em></p>
-      ```mermaid
-      pie title Systems
-          "Automation" : 35
-          "NLP" : 30
-          "APIs" : 25
-          "Scheduling" : 10
-      ```
-      <p><strong>Status:</strong> 🟢 Active</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📱 AI for KaiOS</h3>
-      <p><em>Low-Resource AI</em></p>
-      ```mermaid
-      pie title Tech Stack
-          "Lightweight Models" : 40
-          "Voice AI" : 30
-          "Optimization" : 20
-          "KaiOS" : 10
-      ```
-      <p><strong>Status:</strong> 🟢 Active</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📚 Arjun's Journey</h3>
-      <p><em>Digital Epic</em></p>
-      ```mermaid
-      pie title Themes
-          "Entrepreneurship" : 35
-          "Innovation" : 30
-          "Resilience" : 20
-          "Tech" : 15
-      ```
-      <p><strong>Status:</strong> 📖 Published</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 Next Frontier</h3>
-      <p><em>Future Constructs</em></p>
-      ```mermaid
-      pie title Focus
-          "AI Innovation" : 40
-          "Web Systems" : 35
-          "Open Source" : 25
-      ```
-      <p><strong>Status:</strong> 🔵 Planning</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
-      <br><strong>Projects</strong>
-      <br><h3>50+</h3>
-      <p><img src="https://img.shields.io/badge/Projects-50+-FFFFFF?style=for-the-badge&logo=codepen&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Projects" /></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="50" />
-      <br><strong>Commits</strong>
-      <br><h3>500+</h3>
-      <p><img src="https://img.shields.io/badge/Commits-500+-FFFFFF?style=for-the-badge&logo=git&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Commits" /></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
-      <br><strong>Stars</strong>
-      <br><h3>100+</h3>
-      <p><img src="https://img.shields.io/badge/Stars-100+-FFFFFF?style=for-the-badge&logo=star&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Stars" /></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="50" />
-      <br><strong>Contributions</strong>
-      <br><h3>200+</h3>
-      <p><img src="https://img.shields.io/badge/Contributions-200+-FFFFFF?style=for-the-badge&logo=git-commit&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Contributions" /></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>NOVA-3B</strong><br><em>Emotion-Aware LLM</em><br>
+        <pre><code class="language-mermaid">
+pie title Neural Core
+  "PyTorch" : 40
+  "Transformers" : 30
+  "Emotion AI" : 20
+  "HuggingFace" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+      <td align="center" width="33%">
+        <strong>INSCIPE</strong><br><em>AI Commerce Matrix</em><br>
+        <pre><code class="language-mermaid">
+pie title Features
+  "AI Recommendations" : 30
+  "Personalization" : 25
+  "Analytics" : 25
+  "Marketplace" : 20
+        </code></pre>
+        <strong>Status:</strong> 🟢 Live
+      </td>
+      <td align="center" width="33%">
+        <strong>JARVIS</strong><br><em>Automation Core</em><br>
+        <pre><code class="language-mermaid">
+pie title Systems
+  "Automation" : 35
+  "NLP" : 30
+  "APIs" : 25
+  "Scheduling" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <strong>AI for KaiOS</strong><br><em>Low-Resource AI</em><br>
+        <pre><code class="language-mermaid">
+pie title Tech Stack
+  "Lightweight Models" : 40
+  "Voice AI" : 30
+  "Optimization" : 20
+  "KaiOS" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+      <td align="center" width="33%">
+        <strong>Arjun's Journey</strong><br><em>Digital Epic</em><br>
+        <pre><code class="language-mermaid">
+pie title Themes
+  "Entrepreneurship" : 35
+  "Innovation" : 30
+  "Resilience" : 20
+  "Tech" : 15
+        </code></pre>
+        <strong>Status:</strong> 📖 Published
+      </td>
+      <td align="center" width="33%">
+        <strong>Next Frontier</strong><br><em>Future Constructs</em><br>
+        <pre><code class="language-mermaid">
+pie title Focus
+  "AI Innovation" : 40
+  "Web Systems" : 35
+  "Open Source" : 25
+        </code></pre>
+        <strong>Status:</strong> 🔵 Planning
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -326,17 +286,16 @@ class NeonMatrix:
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" />
+    <br>
     <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Spotify" /></a>
   </p>
-
-  ```
-  2020: First Beats
-  2021: Synth Waves
-  2022: Cosmic Mix
-  2023: Stranger Pulse
-  ```
-
-  *Timeline traces the journey from raw beats to eternal defiance.*
+  <pre>
+2020: First Beats
+2021: Synth Waves
+2022: Cosmic Mix
+2023: Stranger Pulse
+  </pre>
+  <p><em>Timeline traces the journey from raw beats to eternal defiance.</em></p>
 </div>
 
 ---
