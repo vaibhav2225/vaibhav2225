@@ -1,16 +1,29 @@
 <div align="center">
 
 <!-- Neon Waveform Header for Vaibhav Verma -->
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes waveAnimation {
+        0% { d: path('M0,60 Q50,40 100,60 Q150,80 200,60 Q250,40 300,60 Q350,80 400,60 Q450,40 500,60 Q550,80 600,60 Q650,40 700,60 Q750,80 800,60'); }
+        50% { d: path('M0,60 Q50,30 100,60 Q150,90 200,60 Q250,30 300,60 Q350,90 400,60 Q450,30 500,60 Q550,90 600,60 Q650,30 700,60 Q750,90 800,60'); }
+        100% { d: path('M0,60 Q50,40 100,60 Q150,80 200,60 Q250,40 300,60 Q350,80 400,60 Q450,40 500,60 Q550,80 600,60 Q650,40 700,60 Q750,80 800,60'); }
+      }
+      .waveform-primary {
+        animation: waveAnimation 4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
   <!-- Background -->
-  <rect x="0" y="0" width="600" height="100" fill="#1a1a1a"/>
-  <!-- Waveform Path -->
-  <path d="M0 50 Q50 20 100 50 Q150 80 200 50 Q250 20 300 50 Q350 80 400 50 Q450 20 500 50 Q550 80 600 50" 
-        fill="none" stroke="#FF0000" stroke-width="3" stroke-opacity="0.8"/>
-  <path d="M0 50 Q50 30 100 50 Q150 70 200 50 Q250 30 300 50 Q350 70 400 50 Q450 30 500 50 Q550 70 600 50" 
-        fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.6"/>
+  <rect x="0" y="0" width="800" height="120" fill="#1a1a1a"/>
+  <!-- Primary Waveform (Red) -->
+  <path class="waveform-primary" d="M0,60 Q50,40 100,60 Q150,80 200,60 Q250,40 300,60 Q350,80 400,60 Q450,40 500,60 Q550,80 600,60 Q650,40 700,60 Q750,80 800,60" 
+        fill="none" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.9"/>
+  <!-- Secondary Waveform (White Glow) -->
+  <path class="waveform-primary" d="M0,60 Q50,50 100,60 Q150,70 200,60 Q250,50 300,60 Q350,70 400,60 Q450,50 500,60 Q550,70 600,60 Q650,50 700,60 Q750,70 800,60" 
+        fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-opacity="0.5"/>
   <!-- Name Text -->
-  <text x="300" y="80" font-family="monospace" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">VAIBHAV VERMA</text>
+  <text x="400" y="100" font-family="Courier New, monospace" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">VAIBHAV VERMA</text>
 </svg>
 
 <!-- Typing Animation -->
@@ -32,7 +45,7 @@
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">⚡ CYBERNETIC ESSENCE { AI Overlord • Neon Architect • Cosmic Innovator }</span>
+## ⚡ CYBERNETIC ESSENCE { AI Overlord • Neon Architect • Cosmic Innovator }
 
 </div>
 
@@ -40,7 +53,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color: #FFFFFF;">🔴 NEON CORE</span>
+### 🔴 NEON CORE
 
 ```javascript
 class VaibhavVerma extends CosmicInnovator {
@@ -79,7 +92,7 @@ class VaibhavVerma extends CosmicInnovator {
 </td>
 <td width="50%" valign="top">
 
-### <span style="color: #FFFFFF;">🌌 QUANTUM VISION</span>
+### 🌌 QUANTUM VISION
 
 ```python
 class NeonMatrix:
@@ -112,7 +125,7 @@ class NeonMatrix:
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">🌐 NEON NETWORK LINKS</span>
+## 🌐 NEON NETWORK LINKS
 
 <p>
   <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Portfolio" /></a>
@@ -129,110 +142,28 @@ class NeonMatrix:
 
 ---
 
-## <span style="color: #FFFFFF;">🎨 NEON TECH MATRIX</span>
+## 🎨 NEON TECH MATRIX
 
 <div align="center">
 
-### <span style="color: #FFFFFF;">⚡ Programming & Development</span>
+### ⚡ Programming & Development
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,vue,nodejs,express,fastapi,django,flask&theme=dark" alt="Programming" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-FF0000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Next.js" />
-</p>
 
-### <span style="color: #FFFFFF;">🗄️ Databases & Data Tools</span>
+### 🗄️ Databases & Data Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,redis&theme=dark" alt="Databases" />
-  <img src="https://img.shields.io/badge/CockroachDB-FF0000?style=for-the-badge&logo=cockroachdb&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="CockroachDB" />
-  <img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/JSON-FF0000?style=for-the-badge&logo=json&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="JSON" />
-  <img src="https://img.shields.io/badge/CSV-FF0000?style=for-the-badge&logo=csv&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="CSV" />
-  <img src="https://img.shields.io/badge/Alpaca_Type_Data-FF0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVR4nGNgGAXUAFmA8f//fwz0/38YGBgY/jMwMPD/DAz/DwwM/AcGBgYgZGBg+M/AwMAnYGBgAPIfYGBgYGDgY2BgYGBgYGDgY2BgYGBgYGDgY2BgYGBgYOD4AQCnSxU3BfcWAAAAAElFTkSuQmCC&labelColor=1a1a1a&color=FFFFFF" alt="Alpaca-Type Data" />
 </p>
 
-### <span style="color: #FFFFFF;">🤖 AI & Machine Learning</span>
+### 🤖 AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/GPT-FF0000?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GPT" />
-  <img src="https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="BERT" />
-  <img src="https://img.shields.io/badge/LLaMA-FF0000?style=for-the-badge&logo=llama&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="LLaMA" />
-  <img src="https://img.shields.io/badge/Transformers-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Transformers" />
-  <img src="https://img.shields.io/badge/CNNs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="CNNs" />
-  <img src="https://img.shields.io/badge/RNNs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="RNNs" />
-  <img src="https://img.shields.io/badge/GANs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GANs" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF0000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/NLP-FF0000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="NLP" />
 </p>
 
-### <span style="color: #FFFFFF;">🛠️ Tools & Infrastructure</span>
+### 🛠️ Tools & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,vscode,raspberrypi,arduino&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-FF0000?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GCP" />
-</p>
-
-### <span style="color: #FFFFFF;">📱 Mobile & IoT</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="Mobile/IoT" />
-  <img src="https://img.shields.io/badge/KaiOS-FF0000?style=for-the-badge&logo=mobile&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="KaiOS" />
-  <img src="https://img.shields.io/badge/PWA-FF0000?style=for-the-badge&logo=pwa&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="PWA" />
-</p>
-
-### <span style="color: #FFFFFF;">🔒 Security</span>
-<p>
-  <img src="https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="JWT" />
-  <img src="https://img.shields.io/badge/OAuth2-FF0000?style=for-the-badge&logo=auth0&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="OAuth2" />
-  <img src="https://img.shields.io/badge/Encryption-FF0000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Encryption" />
-  <img src="https://img.shields.io/badge/SSL/TLS-FF0000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="SSL/TLS" />
-</p>
-
-### <span style="color: #FFFFFF;">📊 Data & Analytics</span>
-<p>
-  <img src="https://img.shields.io/badge/Visualization-FF0000?style=for-the-badge&logo=chart-bar&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Visualization" />
-  <img src="https://img.shields.io/badge/BI_Tools-FF0000?style=for-the-badge&logo=powerbi&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="BI Tools" />
-  <img src="https://img.shields.io/badge/Big_Data-FF0000?style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Big Data" />
-</p>
-
-### <span style="color: #FFFFFF;">🌐 APIs & Integrations</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="APIs" />
-  <img src="https://img.shields.io/badge/OpenAI-FF0000?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google-FF0000?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Google" />
-  <img src="https://img.shields.io/badge/Stripe-FF0000?style=for-the-badge&logo=stripe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=twilio&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Twilio" />
-</p>
-
-### <span style="color: #FFFFFF;">🎨 Creative Skills</span>
-<p>
-  <img src="https://img.shields.io/badge/Published_Author-FF0000?style=for-the-badge&logo=book&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Published Author" />
-  <img src="https://img.shields.io/badge/Poetry-FF0000?style=for-the-badge&logo=pen&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Poetry" />
-  <img src="https://img.shields.io/badge/Sound_Design-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Sound Design" />
-  <img src="https://img.shields.io/badge/Music_Composition-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Music Composition" />
-  <img src="https://img.shields.io/badge/Photo_Video_Editing-FF0000?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Photo/Video Editing" />
-  <img src="https://img.shields.io/badge/Graphic_Design-FF0000?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Graphic Design" />
-</p>
-
-### <span style="color: #FFFFFF;">🚀 Entrepreneurship</span>
-<p>
-  <img src="https://img.shields.io/badge/Startup_Founder-FF0000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Startup Founder" />
-  <img src="https://img.shields.io/badge/E_commerce-FF0000?style=for-the-badge&logo=shopify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="E-commerce" />
-  <img src="https://img.shields.io/badge/Business_Strategy-FF0000?style=for-the-badge&logo=strategy&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Business Strategy" />
-  <img src="https://img.shields.io/badge/Marketing-FF0000?style=for-the-badge&logo=megaphone&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Marketing" />
-  <img src="https://img.shields.io/badge/Branding-FF0000?style=for-the-badge&logo=brand&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Branding" />
-  <img src="https://img.shields.io/badge/Product_Development-FF0000?style=for-the-badge&logo=producthunt&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Product Development" />
-</p>
-
-### <span style="color: #FFFFFF;">🎮 Gaming & Sports</span>
-<p>
-  <img src="https://img.shields.io/badge/PC_Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="PC Gaming" />
-  <img src="https://img.shields.io/badge/Strategic_Gameplay-FF0000?style=for-the-badge&logo=chess&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Strategic Gameplay" />
-  <img src="https://img.shields.io/badge/Cricket-FF0000?style=for-the-badge&logo=sports&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Cricket" />
-  <img src="https://img.shields.io/badge/Volleyball-FF0000?style=for-the-badge&logo=sports&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Volleyball" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
@@ -243,7 +174,7 @@ class NeonMatrix:
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">📊 NEON CODE GRID</span>
+## 📊 NEON CODE GRID
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vaibhav2225&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=7&title_color=FFFFFF&text_color=FFFFFF" alt="Trophy" />
 
@@ -263,275 +194,180 @@ class NeonMatrix:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2225&custom_title=Neon%20Code%20Matrix&bg_color=1a1a1a&color=FFFFFF&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
-<div align="center">
-
-## <span style="color: #FFFFFF;">🐍 NEON CODE STREAM</span>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color: #FFFFFF;">🎯 NEON MISSIONS</span>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">⚡ NOVA-3B</span>
-*Emotion-Aware LLM*
-
-```mermaid
-pie title Neural Core
-    "PyTorch" : 40
-    "Transformers" : 30
-    "Emotion AI" : 20
-    "HuggingFace" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🛍️ INSCIPE</span>
-*Neon Commerce Grid*
-
-```mermaid
-pie title Features
-    "AI Recommendations" : 30
-    "Personalization" : 25
-    "Analytics" : 25
-    "Marketplace" : 20
-```
-**Status:** 🟢 Live
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🤖 JARVIS</span>
-*Automation Nexus*
-
-```mermaid
-pie title Systems
-    "Automation" : 35
-    "NLP" : 30
-    "APIs" : 25
-    "Scheduling" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">📱 AI for KaiOS</span>
-*Low-Resource AI*
-
-```mermaid
-pie title Tech Stack
-    "Lightweight Models" : 40
-    "Voice AI" : 30
-    "Optimization" : 20
-    "KaiOS" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">📚 Arjun's Journey</span>
-*Digital Chronicle*
-
-```mermaid
-pie title Themes
-    "Entrepreneurship" : 35
-    "Innovation" : 30
-    "Resilience" : 20
-    "Tech" : 15
-```
-**Status:** 📖 Published
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🚀 Next Frontier</span>
-*Future Constructs*
-
-```mermaid
-pie title Focus
-    "AI Innovation" : 40
-    "Web Systems" : 35
-    "Open Source" : 25
-```
-**Status:** 🔵 Planning
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color: #FFFFFF;">🏆 NEON ACHIEVEMENTS</span>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Projects</strong></span>
-<br><span style="color: #FFFFFF;"><h3>50+</h3></span>
-<p><img src="https://img.shields.io/badge/Projects-50+-FF0000?style=for-the-badge&logo=codepen&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Projects" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Commits</strong></span>
-<br><span style="color: #FFFFFF;"><h3>500+</h3></span>
-<p><img src="https://img.shields.io/badge/Commits-500+-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Commits" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Stars</strong></span>
-<br><span style="color: #FFFFFF;"><h3>100+</h3></span>
-<p><img src="https://img.shields.io/badge/Stars-100+-FF0000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stars" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Contributions</strong></span>
-<br><span style="color: #FFFFFF;"><h3>200+</h3></span>
-<p><img src="https://img.shields.io/badge/Contributions-200+-FF0000?style=for-the-badge&logo=git-commit&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Contributions" /></p>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color: #FFFFFF;">💎 NEON PRINCIPLES</span>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Innovation</strong></span>
-<br><span style="color: #FFFFFF;"><sub>Redefine the Future</sub></span>
-<p><img src="https://img.shields.io/badge/Innovation-Redefine_the_Future-FF0000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Innovation" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Integrity</strong></span>
-<br><span style="color: #FFFFFF;"><sub>Code with Honor</sub></span>
-<p><img src="https://img.shields.io/badge/Integrity-Code_with_Honor-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Integrity" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Impact</strong></span>
-<br><span style="color: #FFFFFF;"><sub>Create Lasting Change</sub></span>
-<p><img src="https://img.shields.io/badge/Impact-Create_Lasting_Change-FF0000?style=for-the-badge&logo=bullseye&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Impact" /></p>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hand%20with%20Fingers%20Splayed.png" width="50" />
-<br><span style="color: #FFFFFF;"><strong>Inclusivity</strong></span>
-<br><span style="color: #FFFFFF;"><sub>Tech for All</sub></span>
-<p><img src="https://img.shields.io/badge/Inclusivity-Tech_for_All-FF0000?style=for-the-badge&logo=users&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Inclusivity" /></p>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
-</div>
-
 ---
 
 <div align="center">
 
 ## 🎵 NEON SOUNDWAVE
 
-<!-- Neon Waveform Header for Vaibhav Verma -->
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="100" fill="#1a1a1a"/>
-  <!-- Dynamic Waveform Lines -->
-  <path d="M0 50 Q25 20 50 50 Q75 80 100 50 Q125 20 150 50 Q175 80 200 50 Q225 20 250 50 Q275 80 300 50 Q325 20 350 50 Q375 80 400 50 Q425 20 450 50 Q475 80 500 50 Q525 20 550 50 Q575 80 600 50"
-        stroke="#FF0000" stroke-width="3" fill="none" stroke-opacity="0.9"/>
-  <path d="M0 50 Q25 30 50 50 Q75 70 100 50 Q125 30 150 50 Q175 70 200 50 Q225 30 250 50 Q275 70 300 50 Q325 30 350 50 Q375 70 400 50 Q425 30 450 50 Q475 70 500 50 Q525 30 550 50 Q575 70 600 50"
-        stroke="#FFFFFF" stroke-width="1" fill="none" stroke-opacity="0.6"/>
-  <text x="300" y="85" font-family="monospace" font-size="22" fill="#FFFFFF" text-anchor="middle">VAIBHAV VERMA</text>
+<!-- Music Visualization Waveform -->
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes musicWave1 {
+        0%, 100% { d: path('M10,75 L20,60 L30,75 L40,45 L50,75 L60,55 L70,75 L80,50 L90,75 L100,65 L110,75 L120,40 L130,75 L140,60 L150,75 L160,50 L170,75 L180,70 L190,75 L200,35 L210,75 L220,65 L230,75 L240,45 L250,75 L260,55 L270,75 L280,50 L290,75 L300,60 L310,75 L320,40 L330,75 L340,70 L350,75'); }
+        50% { d: path('M10,75 L20,40 L30,75 L40,30 L50,75 L60,35 L70,75 L80,25 L90,75 L100,45 L110,75 L120,20 L130,75 L140,40 L150,75 L160,30 L170,75 L180,50 L190,75 L200,15 L210,75 L220,45 L230,75 L240,25 L250,75 L260,35 L270,75 L280,30 L290,75 L300,40 L310,75 L320,20 L330,75 L340,50 L350,75'); }
+      }
+      .bar { animation: musicWave1 1.2s ease-in-out infinite; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="150" fill="#1a1a1a"/>
+  
+  <!-- Neon Red Lines (Music Bars) -->
+  <line x1="10" y1="75" x2="10" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="30" y1="75" x2="30" y2="45" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="50" y1="75" x2="50" y2="55" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="70" y1="75" x2="70" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="90" y1="75" x2="90" y2="65" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="110" y1="75" x2="110" y2="40" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="75" x2="130" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="150" y1="75" x2="150" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="170" y1="75" x2="170" y2="70" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="190" y1="75" x2="190" y2="35" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="210" y1="75" x2="210" y2="65" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="230" y1="75" x2="230" y2="45" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="250" y1="75" x2="250" y2="55" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="270" y1="75" x2="270" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="290" y1="75" x2="290" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="310" y1="75" x2="310" y2="40" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="330" y1="75" x2="330" y2="70" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="350" y1="75" x2="350" y2="45" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="370" y1="75" x2="370" y2="55" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="390" y1="75" x2="390" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="410" y1="75" x2="410" y2="65" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="430" y1="75" x2="430" y2="40" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="450" y1="75" x2="450" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="470" y1="75" x2="470" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="490" y1="75" x2="490" y2="70" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="510" y1="75" x2="510" y2="35" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="530" y1="75" x2="530" y2="65" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="550" y1="75" x2="550" y2="45" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="570" y1="75" x2="570" y2="55" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="590" y1="75" x2="590" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="610" y1="75" x2="610" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="630" y1="75" x2="630" y2="40" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="650" y1="75" x2="650" y2="70" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="670" y1="75" x2="670" y2="45" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="690" y1="75" x2="690" y2="55" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="710" y1="75" x2="710" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="730" y1="75" x2="730" y2="65" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="750" y1="75" x2="750" y2="40" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="770" y1="75" x2="770" y2="60" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  <line x1="790" y1="75" x2="790" y2="50" stroke="#FF0000" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Animated Path Overlay -->
+  <path class="bar" d="M10,75 L20,60 L30,75 L40,45 L50,75 L60,55 L70,75 L80,50 L90,75 L100,65 L110,75 L120,40 L130,75 L140,60 L150,75 L160,50 L170,75 L180,70 L190,75 L200,35 L210,75 L220,65 L230,75 L240,45 L250,75 L260,55 L270,75 L280,50 L290,75 L300,60 L310,75 L320,40 L330,75 L340,70 L350,75" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.6" stroke-linecap="round"/>
 </svg>
 
----
-
-<!-- Animated Music Disk -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/6e/6e63a45d278de4afab19b1cb14d2f13d_w200.gif" width="140" alt="Rotating Music Disk" />
+<p align="center" style="margin-top: 20px;">
+  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-Kate_Bush_Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a" alt="Spotify Now Playing" />
+  </a>
 </p>
 
-### 🔴 Now Playing  
-**Kate Bush – Running Up That Hill (A Deal With God)**
-
-🎧 *Defying odds, through neon rhythm.*
-
----
-
-<!-- Simulated Progress Bar -->
-<svg width="400" height="20" viewBox="0 0 400 20" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="5" width="400" height="10" rx="5" fill="#333"/>
-  <rect x="0" y="5" width="280" height="10" rx="5" fill="#FF0000">
-    <animate attributeName="width" values="0;280;0" dur="8s" repeatCount="indefinite" />
-  </rect>
-  <text x="380" y="15" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="end">02:15 / 04:30</text>
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slideTime {
+        0% { x: 0; }
+        100% { x: 800; }
+      }
+      .time-marker { animation: slideTime 8s linear infinite; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="800" height="80" fill="#1a1a1a"/>
+  
+  <!-- Timeline -->
+  <line x1="0" y1="40" x2="800" y2="40" stroke="#FFFFFF" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Time Points -->
+  <circle cx="50" cy="40" r="4" fill="#FF0000"/>
+  <text x="50" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2020</text>
+  
+  <circle cx="200" cy="40" r="4" fill="#FF0000"/>
+  <text x="200" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2021</text>
+  
+  <circle cx="350" cy="40" r="4" fill="#FF0000"/>
+  <text x="350" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2022</text>
+  
+  <circle cx="500" cy="40" r="4" fill="#FF0000"/>
+  <text x="500" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2023</text>
+  
+  <circle cx="650" cy="40" r="4" fill="#FF0000"/>
+  <text x="650" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2024</text>
+  
+  <circle cx="750" cy="40" r="4" fill="#FF0000"/>
+  <text x="750" y="65" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2025</text>
+  
+  <!-- Current Position Marker -->
+  <circle class="time-marker" cx="0" cy="40" r="6" fill="#FFFFFF" opacity="0.8"/>
+  <text class="time-marker" x="0" y="20" font-family="monospace" font-size="10" fill="#FF0000" text-anchor="middle" opacity="0.8">NOW</text>
 </svg>
 
----
+<p align="center" style="color: #FFFFFF; margin-top: 20px;">
+  <strong>🎶 From First Beats to Cosmic Melodies - Waveforms Pulse Through Time 🎶</strong>
+</p>
 
-🎶 *“The neon pulse never sleeps — only syncs to the cosmos.”*  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
 </div>
-
 
 ---
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">💌 FORGE THE NEON FUTURE!</span>
+## 🎯 NEON MISSIONS
 
-<p>
-  <span style="color: #FFFFFF;"><strong>🌌 Open for AI missions, startup quests, and creative collabs!</strong></span>
-</p>
+| ⚡ NOVA-3B | 🛍️ INSCIPE | 🤖 JARVIS |
+|:---:|:---:|:---:|
+| *Emotion-Aware LLM* | *Neon Commerce Grid* | *Automation Nexus* |
+| PyTorch • Transformers • HuggingFace | AI Recommendations • Analytics | NLP • APIs • Scheduling |
+| **Status: 🟢 Active** | **Status: 🟢 Live** | **Status: 🟢 Active** |
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vaibhav2225&label=Profile%20Visitors&color=FF0000&style=for-the-badge&labelColor=1a1a1a&color=FFFFFF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vaibhav2225?label=Followers&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vaibhav2225?label=Stars&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stars" />
-</p>
+| 📱 AI for KaiOS | 📚 Arjun's Journey | 🚀 Next Frontier |
+|:---:|:---:|:---:|
+| *Low-Resource AI* | *Digital Chronicle* | *Future Constructs* |
+| Lightweight Models • Voice AI | Entrepreneurship • Innovation | AI Innovation • Web Systems |
+| **Status: 🟢 Active** | **Status: 📖 Published** | **Status: 🔵 Planning** |
 
-### <span style="color: #FFFFFF;">🔴 Directive: Code the Cosmos, Ignite Eternity</span>
-
-<span style="color: #FFFFFF;">**⭐ Drop a star to fuel the neon revolution!**</span>  
-<span style="color: #FFFFFF;">**🤝 Let’s conquer the Upside Down together!**</span>
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&customColorList=0,6,11&height=100&section=footer&font=Orbitron&fontColor=FFFFFF" alt="Footer" />
+<div align="center">
 
-<span style="color: #FFFFFF;">*"The neon pulse of code carves a path to the stars."* - Vaibhav Verma</span>
+## 💎 NEON PRINCIPLES
 
-<span style="color: #FFFFFF;">**Crafted with ⚡ and ☕ in the Neon Upside Down**</span>
+| 🚀 Innovation | 🛡️ Integrity | 🎯 Impact | 🤝 Inclusivity |
+|:---:|:---:|:---:|:---:|
+| *Redefine the Future* | *Code with Honor* | *Create Lasting Change* | *Tech for All* |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💌 FORGE THE NEON FUTURE!
+
+**🌌 Open for AI missions, startup quests, and creative collabs!**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vaibhav2225&label=Profile%20Visitors&color=FF0000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vaibhav2225?label=Followers&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vaibhav2225?label=Stars&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a" alt="Stars" />
+</p>
+
+### 🔴 Directive: Code the Cosmos, Ignite Eternity
+
+**⭐ Drop a star to fuel the neon revolution!**  
+**🤝 Let's conquer the Upside Down together!**
+
+---
+
+*"The neon pulse of code carves a path to the stars."* - Vaibhav Verma
+
+**Crafted with ⚡ and ☕ in the Neon Upside Down**
 
 </div>
