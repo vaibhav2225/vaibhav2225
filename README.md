@@ -300,7 +300,7 @@ pie title Focus
       <p><img src="https://img.shields.io/badge/Integrity-Code_with_Honor-FFFFFF?style=for-the-badge&logo=shield&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Integrity" /></p>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
+      <img src="https://github.com/vaibhav2225/vaibhav2225/blob/main/red-target-with-arrow_53876-478389.png" width="50" />
       <br><strong>Impact</strong>
       <br><sub>Create Lasting Change</sub>
       <p><img src="https://img.shields.io/badge/Impact-Create_Lasting_Change-FFFFFF?style=for-the-badge&logo=bullseye&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Impact" /></p>
