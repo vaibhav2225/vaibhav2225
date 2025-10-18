@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&customColorList=6,11,20&height=200&section=header&text=VAIBHAV%20VERMA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- Futuristic Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF0000&customColorList=0,6,11&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=scale&font=Orbitron&fontColor=fff" />
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+the+Upside+Down+%F0%9F%94%A5;Where+Innovation+Meets+Imagination+%E2%9C%A8;Building+AI-Powered+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=400&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=160&lines=Enter+the+Neon+Upside+Down+%F0%9F%94%A5;AI+Mastery+%26+Cyber+Innovation+%E2%9A%A1;Code,+Create,+Conquer+%F0%9F%9A%80;From+Neon+Dreams+to+Cosmic+Reality+%F0%9F%8C%8C" alt="Typing SVG" />
 </p>
 
-<!-- Animated Badges -->
+<!-- Neon Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🔴_ACTIVE-FF0000?style=for-the-badge&logo=statuspage&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
-  <img src="https://img.shields.io/badge/Followers-1K+-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Status-🔴_NEON_ACTIVE-FF0000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Followers-1K+-FF0000?style=for-the-badge&logo=users&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
   <img src="https://img.shields.io/badge/Projects-50+-FF0000?style=for-the-badge&logo=codepen&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
+  <img src="https://img.shields.io/badge/Commits-500+-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" />
 </p>
 
 </div>
@@ -21,7 +22,7 @@
 
 <div align="center">
 
-## 🧬 DNA { AI Engineer • Full Stack Dev • Entrepreneur }
+## ⚡ CYBERNETIC CORE { AI Visionary • Tech Alchemist • Neon Pioneer }
 
 </div>
 
@@ -29,37 +30,37 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Mission Control
+### 🔴 NEON NEXUS
 
 ```javascript
-class Vaibhav extends Innovator {
+class VaibhavVerma extends CyberPioneer {
   constructor() {
     super();
-    this.name = "Vaibhav Verma";
-    this.role = "AI & Full Stack Alchemist";
-    this.location = "Upside Down 🌌";
-    this.currentMission = [
-      "🔮 NOVA-3B - Emotion-Aware LLM",
-      "🛍️ INSCIPE - AI-Powered Ecommerce",
-      "🤖 JARVIS - Automation Protocol"
+    this.identity = "Vaibhav Verma";
+    this.domain = "Neon Upside Down 🌌";
+    this.missions = [
+      "⚡ NOVA-3B: Emotion-Aware AI",
+      "🛍️ INSCIPE: AI Commerce Grid",
+      "🤖 JARVIS: Automation Core",
+      "📚 Arjun's Journey: Digital Saga"
     ];
   }
 
-  get dailyRoutine() {
+  get cyberCycle() {
     return {
-      morning: "☕ Coffee + Code",
-      afternoon: "⚡ Build AI Models",
-      evening: "📚 Innovate & Experiment",
-      night: "🌙 Dream in Python"
+      dawn: "☕ Fuel + Code Fusion",
+      midday: "🔥 Deploy Neural Systems",
+      dusk: "📡 Optimize & Innovate",
+      night: "🌌 Dream in AI Matrices"
     };
   }
 
-  getSkillSet() {
+  get coreDirectives() {
     return [
-      "AI/ML Master 🤖",
-      "Full Stack Wizard 🛠️",
-      "Prompt Engineering Guru ⚡",
-      "Entrepreneurial Visionary 🚀"
+      "🤖 AI/LLM Mastery",
+      "🛠️ Full Stack Supremacy",
+      "⚡ Prompt Engineering Precision",
+      "🚀 Entrepreneurial Cosmos"
     ];
   }
 }
@@ -68,29 +69,29 @@ class Vaibhav extends Innovator {
 </td>
 <td width="50%" valign="top">
 
-### 🌈 Current Universe
+### 🌌 QUANTUM HORIZON
 
 ```python
-class CurrentlyExploring:
+class NeonVision:
     def __init__(self):
-        self.learning = {
-            "AI_ML": ["LLMs", "Transformers", "Emotion Recognition"],
-            "Frontend": ["Next.js", "React", "Tailwind CSS"],
-            "Backend": ["Node.js", "FastAPI", "MongoDB"],
-            "DevOps": ["Docker", "AWS", "CI/CD"]
+        self.focus = {
+            "AI_Nexus": ["LLMs", "Emotion AI", "Automation"],
+            "Tech_Grid": ["Next.js", "FastAPI", "MongoDB"],
+            "Creative_Core": ["Music", "Writing", "Design"],
+            "Hardware": ["Arduino", "Raspberry Pi"]
         }
         
-    def life_philosophy(self):
+    def cyber_philosophy(self):
         return """
-        🎮 Innovate with Passion
-        📚 Learn Relentlessly
-        🚀 Build for Impact
-        💡 Dream Beyond Limits
+        ⚡ Ignite the Future
+        🌌 Merge Code & Creativity
+        🚀 Build with Cosmic Intent
+        🔴 Pulse with Neon Passion
         """
     
-    def motto(self):
-        print("Transform Ideas into Reality 🌌")
-        print("Bridge Human & AI with Code 🔴")
+    def neon_motto(self):
+        print("From Code to Cosmos 🌌")
+        print("Neon Dreams, Infinite Impact 🔴")
 ```
 
 </td>
@@ -101,15 +102,15 @@ class CurrentlyExploring:
 
 <div align="center">
 
-## 🌐 Connect Across the Upside Down
+## 🌐 NEON NETWORK LINKS
 
 <p>
-  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
-  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
-  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
-  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
-  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1a1a1a" /></a>
+  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -118,33 +119,68 @@ class CurrentlyExploring:
 
 ---
 
-## 🎨 Tech Palette & Toolbox
+## 🎨 NEON TECH MATRIX
 
 <div align="center">
 
-### ⚡ Core Languages
+### ⚡ Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,vue,nodejs,express,fastapi,django,flask&theme=dark" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🗄️ Databases & Data Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,redis&theme=dark" />
+  <span style="color: #ff0000;">+ CockroachDB, CSV, SQL, JSON, Alpaca-Type Data</span>
 </p>
 
-### 🗄️ Databases & Backend
+### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <span style="color: #ff0000;">+ GPT, BERT, LLaMA, Transformers, CNNs, RNNs, GANs, Prompt Engineering, NLP</span>
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠️ Tools & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,vscode&theme=dark" />
+  <span style="color: #ff0000;">+ Raspberry Pi, Arduino</span>
 </p>
 
-### 🤖 AI/ML Arsenal
+### 📱 Mobile & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,electron&theme=dark" />
+  <span style="color: #ff0000;">+ KaiOS, PWA</span>
+</p>
+
+### 🔒 Security
+<p>
+  <span style="color: #ff0000;">JWT, OAuth2, Encryption, SSL/TLS</span>
+</p>
+
+### 📊 Data & Analytics
+<p>
+  <span style="color: #ff0000;">Visualization, BI Tools, Big Data Processing</span>
+</p>
+
+### 🌐 APIs & Integrations
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
+  <span style="color: #ff0000;">+ OpenAI, Hugging Face, Google, Stripe, Twilio</span>
+</p>
+
+### 🎨 Creative Skills
+<p>
+  <span style="color: #ff0000;">Published Author, Poetry, Sound Design, Music Composition, Photo/Video Editing, Graphic Design</span>
+</p>
+
+### 🚀 Entrepreneurship
+<p>
+  <span style="color: #ff0000;">Startup Founder, E-commerce, Business Strategy, Marketing, Branding, Product Development</span>
+</p>
+
+### 🎮 Gaming & Sports
+<p>
+  <span style="color: #ff0000;">PC Gaming, Strategic Gameplay, Cricket, Volleyball</span>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -155,31 +191,31 @@ class CurrentlyExploring:
 
 <div align="center">
 
-## 📊 GitHub Constellation
+## 📊 NEON CODE GRID
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vaibhav2225&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vaibhav2225&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=vaibhav2225&theme=radical&hide_border=true&background=1a1a1a&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=vaibhav2225&theme=cyberpunk&hide_border=true&background=1a1a1a&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF0000&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav2225&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF0000&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FF0000&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FF0000&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2225&custom_title=Contribution%20Graph&bg_color=1a1a1a&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2225&custom_title=Neon%20Code%20Matrix&bg_color=1a1a1a&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🎯 Featured Projects & Quests
+## 🎯 NEON MISSIONS
 
 <table>
 <tr>
@@ -189,23 +225,23 @@ class CurrentlyExploring:
 *Emotion-Aware LLM*
 
 ```mermaid
-pie title Tech Stack
+pie title Neural Core
     "PyTorch" : 40
     "Transformers" : 30
-    "NLP" : 20
+    "Emotion AI" : 20
     "HuggingFace" : 10
 ```
-**Status:** 🟢 Active Development
+**Status:** 🟢 Active
 
 </td>
 <td align="center" width="33%">
 
 ### 🛍️ INSCIPE
-*AI-Powered Ecommerce*
+*Neon Commerce Grid*
 
 ```mermaid
 pie title Features
-    "Recommendations" : 30
+    "AI Recommendations" : 30
     "Personalization" : 25
     "Analytics" : 25
     "Marketplace" : 20
@@ -216,10 +252,10 @@ pie title Features
 <td align="center" width="33%">
 
 ### 🤖 JARVIS
-*Automation Protocol*
+*Automation Nexus*
 
 ```mermaid
-pie title Focus Areas
+pie title Systems
     "Automation" : 35
     "NLP" : 30
     "APIs" : 25
@@ -233,7 +269,7 @@ pie title Focus Areas
 <td align="center" width="33%">
 
 ### 📱 AI for KaiOS
-*AI for Feature Phones*
+*Low-Resource AI*
 
 ```mermaid
 pie title Tech Stack
@@ -248,7 +284,7 @@ pie title Tech Stack
 <td align="center" width="33%">
 
 ### 📚 Arjun's Journey
-*Published Book*
+*Digital Chronicle*
 
 ```mermaid
 pie title Themes
@@ -262,13 +298,13 @@ pie title Themes
 </td>
 <td align="center" width="33%">
 
-### 🚀 Future Projects
-*Coming Soon*
+### 🚀 Next Frontier
+*Future Constructs*
 
 ```mermaid
-pie title Focus Areas
+pie title Focus
     "AI Innovation" : 40
-    "Web Apps" : 35
+    "Web Systems" : 35
     "Open Source" : 25
 ```
 **Status:** 🔵 Planning
@@ -285,13 +321,13 @@ pie title Focus Areas
 
 <div align="center">
 
-## 🏆 Achievements & Milestones
+## 🏆 NEON ACHIEVEMENTS
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
-<br><strong>Projects Built</strong>
+<br><strong>Projects</strong>
 <br><h3>50+</h3>
 </td>
 <td align="center" width="25%">
@@ -320,29 +356,29 @@ pie title Focus Areas
 
 <div align="center">
 
-## 💎 Core Values
+## 💎 NEON PRINCIPLES
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
 <br><strong>Innovation</strong>
-<br><sub>Pushing Tech Boundaries</sub>
+<br><sub>Redefine the Future</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" />
 <br><strong>Integrity</strong>
-<br><sub>Honesty & Transparency</sub>
+<br><sub>Code with Honor</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
 <br><strong>Impact</strong>
-<br><sub>Solutions That Matter</sub>
+<br><sub>Create Lasting Change</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hand%20with%20Fingers%20Splayed.png" width="50" />
 <br><strong>Inclusivity</strong>
-<br><sub>Tech for Everyone</sub>
+<br><sub>Tech for All</sub>
 </td>
 </tr>
 </table>
@@ -355,13 +391,16 @@ pie title Focus Areas
 
 <div align="center">
 
-## 🎵 Now Playing
+## 🎵 NEON SOUNDWAVE
 
 <p>
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" />
+  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1" /></a>
+  <!-- Neon Equalizer Animation -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZoa2h3OTQ5MnV2N3N2cG1jN2U0ajBtdmFwc3B5b3l4eWFiM3E4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKqoaCmeVmsdA3K/giphy.gif" width="250" alt="Neon Equalizer" />
 </p>
 
-*Stranger Things Anthem — Capturing the essence of never giving up, even against impossible odds.*
+*Stranger Things Anthem — Pulsing through the neon cosmos, defying all limits.*
 
 </div>
 
@@ -369,7 +408,7 @@ pie title Focus Areas
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 NEON CODE STREAM
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/output/github-contribution-grid-snake-dark.svg">
@@ -385,10 +424,10 @@ pie title Focus Areas
 
 <div align="center">
 
-## 💌 Let's Build Something Extraordinary!
+## 💌 IGNITE THE NEON FUTURE!
 
 <p>
-  <strong>🌟 Open for AI projects, startups, and open-source collabs!</strong>
+  <strong>🌌 Open for AI missions, startup ventures, and creative collabs!</strong>
 </p>
 
 <p>
@@ -397,17 +436,17 @@ pie title Focus Areas
   <img src="https://img.shields.io/github/stars/vaibhav2225?label=Stars&style=for-the-badge&color=FF0000&logo=github" alt="Stars" />
 </p>
 
-### 💡 Motto: Innovate, Create, Inspire
+### 🔴 Directive: Code the Cosmos, Transcend the Ordinary
 
-**⭐ Drop a star if you vibe with my work!**  
-**🤝 Let's connect and conquer the Upside Down!**
+**⭐ Drop a star to join the neon uprising!**  
+**🤝 Let’s forge the future in the Upside Down!**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF0000&customColorList=0,6,11&height=100&section=footer&font=Orbitron&fontColor=fff" />
 
-*"The only way out is through — and on the other side, you'll find something extraordinary."* - Vaibhav Verma
+*"The neon pulse of code shapes a future beyond the stars."* - Vaibhav Verma
 
-**Made with 🔥 and lots of ☕ in the Upside Down**
+**Crafted with ⚡ and ☕ in the Neon Upside Down**
 
 </div>
