@@ -1,7 +1,17 @@
 <div align="center">
 
-<!-- Futuristic Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&customColorList=0,6,11&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=scale&font=Orbitron&fontColor=FFFFFF" alt="Header" />
+<!-- Neon Waveform Header for Vaibhav Verma -->
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="600" height="100" fill="#1a1a1a"/>
+  <!-- Waveform Path -->
+  <path d="M0 50 Q50 20 100 50 Q150 80 200 50 Q250 20 300 50 Q350 80 400 50 Q450 20 500 50 Q550 80 600 50" 
+        fill="none" stroke="#FF0000" stroke-width="3" stroke-opacity="0.8"/>
+  <path d="M0 50 Q50 30 100 50 Q150 70 200 50 Q250 30 300 50 Q350 70 400 50 Q450 30 500 50 Q550 70 600 50" 
+        fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Name Text -->
+  <text x="300" y="80" font-family="monospace" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">VAIBHAV VERMA</text>
+</svg>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -460,52 +470,29 @@ pie title Focus
   <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Spotify" /></a>
 </p>
 
-<!-- Rotating Neon Disc Timeline -->
-<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .disc { fill: none; stroke: #FF0000; stroke-width: 3; animation: spin 20s linear infinite; transform-origin: center; }
-      .groove { fill: none; stroke: #FFFFFF; stroke-width: 1; opacity: 0.8; }
-      .label { font-family: monospace; font-size: 8px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
-      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    </style>
-    <radialGradient id="neonGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:0.2" />
-    </radialGradient>
-  </defs>
-  
-  <!-- Disc Base -->
-  <circle class="disc" cx="150" cy="150" r="140" />
-  <circle fill="url(#neonGlow)" cx="150" cy="150" r="140" />
-  
-  <!-- Grooves (Concentric Circles for Timeline Depth) -->
-  <circle class="groove" cx="150" cy="150" r="120" />
-  <circle class="groove" cx="150" cy="150" r="100" />
-  <circle class="groove" cx="150" cy="150" r="80" />
-  <circle class="groove" cx="150" cy="150" r="60" />
-  
-  <!-- Center Label -->
-  <circle fill="#FF0000" cx="150" cy="150" r="20" />
-  <text class="label" x="150" y="155" font-size="12">NEON</text>
-  <text class="label" x="150" y="170" font-size="10">CORE</text>
-  
-  <!-- Timeline Labels (Positioned Around Disc - Rotate with It) -->
-  <g transform="rotate(0 150 150)">
-    <text class="label" x="150" y="30">2020: First Beats</text>
-  </g>
-  <g transform="rotate(90 150 150)">
-    <text class="label" x="150" y="30">2021: Synth Waves</text>
-  </g>
-  <g transform="rotate(180 150 150)">
-    <text class="label" x="150" y="30">2022: Cosmic Mix</text>
-  </g>
-  <g transform="rotate(270 150 150)">
-    <text class="label" x="150" y="30">2023: Stranger Pulse</text>
-  </g>
+<!-- Neon Waveform Timeline -->
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="600" height="200" fill="#1a1a1a"/>
+  <!-- Waveform Path (Primary Neon Red) -->
+  <path d="M0 100 Q50 40 100 100 Q150 160 200 100 Q250 40 300 100 Q350 160 400 100 Q450 40 500 100 Q550 160 600 100" 
+        fill="none" stroke="#FF0000" stroke-width="4" stroke-opacity="0.9"/>
+  <!-- Secondary Waveform (White Glow) -->
+  <path d="M0 100 Q50 60 100 100 Q150 140 200 100 Q250 60 300 100 Q350 140 400 100 Q450 60 500 100 Q550 140 600 100" 
+        fill="none" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.7"/>
+  <!-- Timeline Labels -->
+  <text x="100" y="30" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2020: First Beats</text>
+  <text x="200" y="190" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2021: Synth Waves</text>
+  <text x="300" y="30" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2022: Cosmic Mix</text>
+  <text x="400" y="190" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2023: Stranger Pulse</text>
+  <!-- Markers for Timeline Points -->
+  <circle cx="100" cy="100" r="5" fill="#FF0000"/>
+  <circle cx="200" cy="100" r="5" fill="#FF0000"/>
+  <circle cx="300" cy="100" r="5" fill="#FF0000"/>
+  <circle cx="400" cy="100" r="5" fill="#FF0000"/>
 </svg>
 
-<span style="color: #FFFFFF;">*Timeline spins through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
+<span style="color: #FFFFFF;">*Waveform pulses through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
 
 </div>
 
