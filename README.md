@@ -466,7 +466,7 @@ pie title Focus
     <style>
       .disc { fill: none; stroke: #FF0000; stroke-width: 3; animation: spin 20s linear infinite; transform-origin: center; }
       .groove { fill: none; stroke: #FFFFFF; stroke-width: 1; opacity: 0.8; }
-      .label { font-family: 'Orbitron', monospace; font-size: 8px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
+      .label { font-family: monospace; font-size: 8px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
       @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
     </style>
     <radialGradient id="neonGlow" cx="50%" cy="50%" r="50%">
