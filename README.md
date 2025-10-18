@@ -1,131 +1,95 @@
-<!-- STRANGER THINGS CINEMATIC GITHUB PROFILE README -->
-<div align="center">
-
-# 👁️‍🗨️ **WELCOME TO THE UPSIDE DOWN**
-## 🩸 *Vaibhav’s Innovation Hub*
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=FF0000&center=true&vCenter=true&width=900&lines=AI+Innovator+%7C+Developer+%7C+Electronics+Engineer;Founder+of+Inscipe;Professional+Prompt+Engineer;Cinematic+Profile+Mode+Activated...)
-
-![Red Divider](https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header&%20render)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 *“When the lights flicker… innovation begins.”* 🔥  
-15-year-old creator. Founder of **Inscipe**.  
-**AI developer, entrepreneur, poet, and tech visionary.**  
-Dreaming big, working harder, and never stopping.  
-
-</div>
-
----
-
-### 🧠 Skills & Expertise
+<!-- STRANGER THINGS THEME GITHUB PROFILE README -->
 <p align="center">
-  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF0000?style=for-the-badge&logo=openai&logoColor=fff)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Electronics-DC143C?style=for-the-badge&logo=raspberrypi&logoColor=fff)
-![GameDev](https://img.shields.io/badge/Game_Development-FF4500?style=for-the-badge&logo=unity&logoColor=fff)
+  <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/assets/stranger-banner-red.gif" alt="Stranger Things Banner" width="100%" />
+</p>
 
+<h1 align="center" style="color:#ff0000; font-family:'Press Start 2P', monospace;">
+  🔥 VAIBHAV VERMA 🔥  
+</h1>
+<h3 align="center" style="color:#c20000;">
+  “Welcome to the Upside Down”  
+</h3>
+
+<p align="center">
+  <a href="https://vaibhav-verma.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/vaibhav_verma25_/">
+    <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🕰️ My Journey Through the Upside Down
-
-| Year | Event |
-|------|--------|
-| 🩸 **2010** | Born in India 🇮🇳 |
-| ⚙️ **2020** | Built first robot from RC parts |
-| 💻 **2022** | Started coding and sold first AI website |
-| 🔮 **2023** | Created NOVA & Jarvis; founded WebWagon |
-| 📘 **2024** | Wrote *Arjun’s Journey*, founded **Inscipe** |
-| 💰 **2025** | Relaunched Inscipe; earned ₹5.5 Lakh in 2 months |
-
----
-
-### 🧩 Featured Projects
-| Project | Description | Link |
-|----------|--------------|------|
-| **NOVA-3B** | Emotion-aware LLM improving human-AI connection | [View on Hugging Face](#) |
-| **Jarvis** | Smart automation assistant | [View on Hugging Face](#) |
-| **Inscipe** | My AI & e-commerce startup | [Visit Site](#) |
-| **A Story of Arjun** | Motivational book | [Read PDF](#) |
-| **AI for KaiOS** | Bringing AI to feature phones | [View Project](#) |
-
----
-
-### 🧠 Skill Domains
-
-| Domain | Strength |
-|--------|-----------|
-| **AI & ML** | 🤖 Model building, prompt design, fine-tuning |
-| **Web Dev** | 🌐 Next.js, React, APIs |
-| **Hardware** | ⚡ Circuits, PC modding, repair |
-| **Creativity** | 🎨 Writing, music, design |
-| **Entrepreneurship** | 💼 Strategy, branding, business |
-
----
-
-### 🏆 Certifications
 <p align="center">
-  
-![Badge](https://img.shields.io/badge/Array_Methods-FF0000?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Coding_Fundamentals-111111?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Animation_Design-8B0000?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=ff0000&center=true&vCenter=true&width=900&lines=AI+Developer+%7C+Entrepreneur+%7C+Innovator;Founder+of+Inscipe;Living+in+the+Upside+Down..." />
 </p>
 
 ---
 
-### 🧠 Collaborator
-**Aditya Kumar**  
-> My best friend & co-founder at **Inscipe** — together we build the future, one AI at a time.  
-[Visit Aditya’s Portfolio](#)
+### 🧠 About Me
+
+> ⚡ I’m **Vaibhav Verma**, a 15-year-old innovator and founder of **Inscipe**.  
+> 💻 Passionate about **AI, coding, robotics, and storytelling.**  
+> 📕 Author of *Arjun’s Journey*.  
+> 🎧 Creator of **AI-generated music and interactive projects**.  
+> 🌍 Visit my cinematic world → [**vaibhav-verma.netlify.app**](https://vaibhav-verma.netlify.app)
 
 ---
 
-<div align="center">
+### 🩸 Tech Stack
 
-### ⚡ GitHub Stats
-
-![Vaibhav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=highcontrast&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=highcontrast&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
-
-</div>
-
----
-
-### 💬 Connect with Me
 <p align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=FF0000)](#)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:youremail@example.com)
-
+  <img src="https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-b30000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-DC143C?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Modeling-FF0000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
+### ⚡ My Projects
+| 🔮 Project | 💡 Description | 🌐 Link |
+|-------------|----------------|---------|
+| **NOVA-3B** | Emotion-aware AI model improving human-AI connection | [Hugging Face](https://huggingface.co/VAIBHAV22334455/NOVA-3B) |
+| **Jarvis** | Smart automation AI | [Hugging Face](https://huggingface.co/VAIBHAV22334455/JARVIS) |
+| **Inscipe** | AI-driven e-commerce startup | [inscipe.shop](https://www.inscipe.shop) |
+| **Arjun’s Journey** | Motivational book | [Read PDF](https://vaibhav-verma.netlify.app/assats/Ebook.pdf) |
+| **AI for KaiOS** | AI tools for feature phones | [Project](https://w32.netlify.app) |
 
-![Glitch](https://raw.githubusercontent.com/Anmol-Baranwal/Nova-Github-Assets/main/Glitch-Red-Line.gif)
+---
 
-> _“You can’t stop what’s coming. But you can build it.”_  
-> **— Vaibhav, 2025**
+### 📊 GitHub Stats
 
-💀 *© 2025 Vaibhav’s Innovation Hub — Where Imagination Meets the Upside Down* 💀  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=highcontrast&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2225&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" width="48%" />
+</p>
 
-</div>
+---
+
+### 🔥 Fun Quote
+
+> 💬 “You can’t stop what’s coming… but you can build it.”  
+> — *Vaibhav, 2025*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Nova-Github-Assets/main/Glitch-Red-Line.gif" width="90%" />
+</p>
+
+---
+
+### 🕹️ Enter the Upside Down  
+**Visit my full cinematic portfolio:**  
+👉 [https://vaibhav-verma.netlify.app](https://vaibhav-verma.netlify.app)
+
+---
+
+<p align="center">
+  💀 *© 2025 Vaibhav Verma — Innovation from the Upside Down* 💀
+</p>
