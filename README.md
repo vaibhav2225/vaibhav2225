@@ -1,16 +1,7 @@
 <div align="center">
 
-## <span style="color: #FFFFFF;">🔴 VAIBHAV VERMA</span>
-
-```
-   ____ ___ ______   _          _ _       
-  | __ )_ _|__  /  | |__   ___| | | ___  
-  |  _ \| |  / /   | '_ \ / __| | |/ _ \ 
-  | |_) | | / /_   | |_) | (__| | | (_) |
-  |____/___/____|  |_.__/ \___|_|_|\___/
-  
-  NEON ARCHITECT • AI OVERLORD • COSMIC INNOVATOR
-```
+<!-- Futuristic Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&customColorList=0,6,11&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=scale&font=Orbitron&fontColor=FFFFFF" alt="Header" />
 
 <!-- Typing Animation -->
 <p align="center">
@@ -31,7 +22,7 @@
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">⚡ CYBERNETIC ESSENCE</span>
+## <span style="color: #FFFFFF;">⚡ CYBERNETIC ESSENCE { AI Overlord • Neon Architect • Cosmic Innovator }</span>
 
 </div>
 
@@ -149,6 +140,7 @@ class NeonMatrix:
   <img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="SQL" />
   <img src="https://img.shields.io/badge/JSON-FF0000?style=for-the-badge&logo=json&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="JSON" />
   <img src="https://img.shields.io/badge/CSV-FF0000?style=for-the-badge&logo=csv&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="CSV" />
+  <img src="https://img.shields.io/badge/Alpaca_Type_Data-FF0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVR4nGNgGAXUAFmA8f//fwz0/38YGBgY/jMwMPD/DAz/DwwM/AcGBgYgZGBg+M/AwMAnYGBgAPIfYGBgYGDgY2BgYGBgYGDgY2BgYGBgYGDgY2BgYGBgYOD4AQCnSxU3BfcWAAAAAElFTkSuQmCC&labelColor=1a1a1a&color=FFFFFF" alt="Alpaca-Type Data" />
 </p>
 
 ### <span style="color: #FFFFFF;">🤖 AI & Machine Learning</span>
@@ -156,7 +148,12 @@ class NeonMatrix:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
   <img src="https://img.shields.io/badge/GPT-FF0000?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GPT" />
   <img src="https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="BERT" />
+  <img src="https://img.shields.io/badge/LLaMA-FF0000?style=for-the-badge&logo=llama&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="LLaMA" />
   <img src="https://img.shields.io/badge/Transformers-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Transformers" />
+  <img src="https://img.shields.io/badge/CNNs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="CNNs" />
+  <img src="https://img.shields.io/badge/RNNs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="RNNs" />
+  <img src="https://img.shields.io/badge/GANs-FF0000?style=for-the-badge&logo=neural-network&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GANs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF0000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/NLP-FF0000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="NLP" />
 </p>
 
@@ -165,18 +162,48 @@ class NeonMatrix:
   <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,vscode,raspberrypi,arduino&theme=dark" alt="Tools" />
   <img src="https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-FF0000?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="GCP" />
 </p>
 
 ### <span style="color: #FFFFFF;">📱 Mobile & IoT</span>
 <p>
+  <img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="Mobile/IoT" />
   <img src="https://img.shields.io/badge/KaiOS-FF0000?style=for-the-badge&logo=mobile&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="KaiOS" />
   <img src="https://img.shields.io/badge/PWA-FF0000?style=for-the-badge&logo=pwa&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="PWA" />
+</p>
+
+### <span style="color: #FFFFFF;">🔒 Security</span>
+<p>
+  <img src="https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth2-FF0000?style=for-the-badge&logo=auth0&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/Encryption-FF0000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Encryption" />
+  <img src="https://img.shields.io/badge/SSL/TLS-FF0000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="SSL/TLS" />
+</p>
+
+### <span style="color: #FFFFFF;">📊 Data & Analytics</span>
+<p>
+  <img src="https://img.shields.io/badge/Visualization-FF0000?style=for-the-badge&logo=chart-bar&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Visualization" />
+  <img src="https://img.shields.io/badge/BI_Tools-FF0000?style=for-the-badge&logo=powerbi&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="BI Tools" />
+  <img src="https://img.shields.io/badge/Big_Data-FF0000?style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Big Data" />
+</p>
+
+### <span style="color: #FFFFFF;">🌐 APIs & Integrations</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="APIs" />
+  <img src="https://img.shields.io/badge/OpenAI-FF0000?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FF0000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google-FF0000?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Google" />
+  <img src="https://img.shields.io/badge/Stripe-FF0000?style=for-the-badge&logo=stripe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=twilio&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Twilio" />
 </p>
 
 ### <span style="color: #FFFFFF;">🎨 Creative Skills</span>
 <p>
   <img src="https://img.shields.io/badge/Published_Author-FF0000?style=for-the-badge&logo=book&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Published Author" />
+  <img src="https://img.shields.io/badge/Poetry-FF0000?style=for-the-badge&logo=pen&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Poetry" />
+  <img src="https://img.shields.io/badge/Sound_Design-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Sound Design" />
   <img src="https://img.shields.io/badge/Music_Composition-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Music Composition" />
+  <img src="https://img.shields.io/badge/Photo_Video_Editing-FF0000?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Photo/Video Editing" />
   <img src="https://img.shields.io/badge/Graphic_Design-FF0000?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Graphic Design" />
 </p>
 
@@ -184,6 +211,18 @@ class NeonMatrix:
 <p>
   <img src="https://img.shields.io/badge/Startup_Founder-FF0000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Startup Founder" />
   <img src="https://img.shields.io/badge/E_commerce-FF0000?style=for-the-badge&logo=shopify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="E-commerce" />
+  <img src="https://img.shields.io/badge/Business_Strategy-FF0000?style=for-the-badge&logo=strategy&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Business Strategy" />
+  <img src="https://img.shields.io/badge/Marketing-FF0000?style=for-the-badge&logo=megaphone&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Marketing" />
+  <img src="https://img.shields.io/badge/Branding-FF0000?style=for-the-badge&logo=brand&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Branding" />
+  <img src="https://img.shields.io/badge/Product_Development-FF0000?style=for-the-badge&logo=producthunt&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Product Development" />
+</p>
+
+### <span style="color: #FFFFFF;">🎮 Gaming & Sports</span>
+<p>
+  <img src="https://img.shields.io/badge/PC_Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="PC Gaming" />
+  <img src="https://img.shields.io/badge/Strategic_Gameplay-FF0000?style=for-the-badge&logo=chess&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Strategic Gameplay" />
+  <img src="https://img.shields.io/badge/Cricket-FF0000?style=for-the-badge&logo=sports&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Cricket" />
+  <img src="https://img.shields.io/badge/Volleyball-FF0000?style=for-the-badge&logo=sports&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Volleyball" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
@@ -196,25 +235,33 @@ class NeonMatrix:
 
 ## <span style="color: #FFFFFF;">📊 NEON CODE GRID</span>
 
-<!-- GitHub Stats with Fallback -->
-<p>
-  <img width="49%" src="https://github-profile-stats.herokuapp.com/api?username=vaibhav2225&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&icon_color=FF0000&text_color=FFFFFF&cache_seconds=3600" alt="GitHub Stats" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vaibhav2225&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=7&title_color=FFFFFF&text_color=FFFFFF" alt="Trophy" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&icon_color=FF0000&text_color=FFFFFF&cache_seconds=3600" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2225&theme=cyberpunk&hide_border=true&background=1a1a1a&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&cache_seconds=3600" alt="GitHub Streak" />
-</p>
-<p>
-  <img width="49%" src="https://github-profile-stats.herokuapp.com/api/top-langs/?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8&cache_seconds=3600" alt="Top Languages" />
-  <img width="49%" src="https://wakatime.com/badge/user/vaibhav2225.svg?style=for-the-badge&color=FF0000&labelColor=1a1a1a" alt="WakaTime Stats" />
-</p>
+</div>
 
-<!-- Fallback Static Images (Host these in your repo's /assets folder) -->
-<p>
-  <img width="49%" src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/assets/github-stats.png" alt="GitHub Stats Fallback" />
-  <img width="49%" src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/assets/github-streak.png" alt="GitHub Streak Fallback" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&cache_seconds=3600" alt="WakaTime Stats" />
+</div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2225&custom_title=Neon%20Code%20Matrix&bg_color=1a1a1a&color=FFFFFF&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
+
+<div align="center">
+
+## <span style="color: #FFFFFF;">🐍 NEON CODE STREAM</span>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -272,6 +319,130 @@ pie title Systems
 
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">📱 AI for KaiOS</span>
+*Low-Resource AI*
+
+```mermaid
+pie title Tech Stack
+    "Lightweight Models" : 40
+    "Voice AI" : 30
+    "Optimization" : 20
+    "KaiOS" : 10
+```
+**Status:** 🟢 Active
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">📚 Arjun's Journey</span>
+*Digital Chronicle*
+
+```mermaid
+pie title Themes
+    "Entrepreneurship" : 35
+    "Innovation" : 30
+    "Resilience" : 20
+    "Tech" : 15
+```
+**Status:** 📖 Published
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">🚀 Next Frontier</span>
+*Future Constructs*
+
+```mermaid
+pie title Focus
+    "AI Innovation" : 40
+    "Web Systems" : 35
+    "Open Source" : 25
+```
+**Status:** 🔵 Planning
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color: #FFFFFF;">🏆 NEON ACHIEVEMENTS</span>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Projects</strong></span>
+<br><span style="color: #FFFFFF;"><h3>50+</h3></span>
+<p><img src="https://img.shields.io/badge/Projects-50+-FF0000?style=for-the-badge&logo=codepen&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Projects" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Commits</strong></span>
+<br><span style="color: #FFFFFF;"><h3>500+</h3></span>
+<p><img src="https://img.shields.io/badge/Commits-500+-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Commits" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Stars</strong></span>
+<br><span style="color: #FFFFFF;"><h3>100+</h3></span>
+<p><img src="https://img.shields.io/badge/Stars-100+-FF0000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stars" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Contributions</strong></span>
+<br><span style="color: #FFFFFF;"><h3>200+</h3></span>
+<p><img src="https://img.shields.io/badge/Contributions-200+-FF0000?style=for-the-badge&logo=git-commit&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Contributions" /></p>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color: #FFFFFF;">💎 NEON PRINCIPLES</span>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Innovation</strong></span>
+<br><span style="color: #FFFFFF;"><sub>Redefine the Future</sub></span>
+<p><img src="https://img.shields.io/badge/Innovation-Redefine_the_Future-FF0000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Innovation" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Integrity</strong></span>
+<br><span style="color: #FFFFFF;"><sub>Code with Honor</sub></span>
+<p><img src="https://img.shields.io/badge/Integrity-Code_with_Honor-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Integrity" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Impact</strong></span>
+<br><span style="color: #FFFFFF;"><sub>Create Lasting Change</sub></span>
+<p><img src="https://img.shields.io/badge/Impact-Create_Lasting_Change-FF0000?style=for-the-badge&logo=bullseye&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Impact" /></p>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hand%20with%20Fingers%20Splayed.png" width="50" />
+<br><span style="color: #FFFFFF;"><strong>Inclusivity</strong></span>
+<br><span style="color: #FFFFFF;"><sub>Tech for All</sub></span>
+<p><img src="https://img.shields.io/badge/Inclusivity-Tech_for_All-FF0000?style=for-the-badge&logo=users&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Inclusivity" /></p>
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
@@ -289,23 +460,52 @@ pie title Systems
   <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Spotify" /></a>
 </p>
 
-<!-- Neon Equalizer Timeline -->
-```
-🎵 NEON EQUALIZER TIMELINE 🎵
-2020    2021    2022    2023
-█▅▃     █▇▅     █▃█     █▇▅▃
-First   Synth   Cosmic  Stranger
-Beats   Waves   Mix     Pulse
-```
+<!-- Rotating Neon Disc Timeline -->
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .disc { fill: none; stroke: #FF0000; stroke-width: 3; animation: spin 20s linear infinite; transform-origin: center; }
+      .groove { fill: none; stroke: #FFFFFF; stroke-width: 1; opacity: 0.8; }
+      .label { font-family: monospace; font-size: 8px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    </style>
+    <radialGradient id="neonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:0.2" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Disc Base -->
+  <circle class="disc" cx="150" cy="150" r="140" />
+  <circle fill="url(#neonGlow)" cx="150" cy="150" r="140" />
+  
+  <!-- Grooves (Concentric Circles for Timeline Depth) -->
+  <circle class="groove" cx="150" cy="150" r="120" />
+  <circle class="groove" cx="150" cy="150" r="100" />
+  <circle class="groove" cx="150" cy="150" r="80" />
+  <circle class="groove" cx="150" cy="150" r="60" />
+  
+  <!-- Center Label -->
+  <circle fill="#FF0000" cx="150" cy="150" r="20" />
+  <text class="label" x="150" y="155" font-size="12">NEON</text>
+  <text class="label" x="150" y="170" font-size="10">CORE</text>
+  
+  <!-- Timeline Labels (Positioned Around Disc - Rotate with It) -->
+  <g transform="rotate(0 150 150)">
+    <text class="label" x="150" y="30">2020: First Beats</text>
+  </g>
+  <g transform="rotate(90 150 150)">
+    <text class="label" x="150" y="30">2021: Synth Waves</text>
+  </g>
+  <g transform="rotate(180 150 150)">
+    <text class="label" x="150" y="30">2022: Cosmic Mix</text>
+  </g>
+  <g transform="rotate(270 150 150)">
+    <text class="label" x="150" y="30">2023: Stranger Pulse</text>
+  </g>
+</svg>
 
-<p>
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/2020-First_Beats-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="2020" /></a>
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/2021-Synth_Waves-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="2021" /></a>
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/2022-Cosmic_Mix-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="2022" /></a>
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/2023-Stranger_Pulse-FF0000?style=for-the-badge&logo=music&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="2023" /></a>
-</p>
-
-<span style="color: #FFFFFF;">*Equalizer pulses through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
+<span style="color: #FFFFFF;">*Timeline spins through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
 
 </div>
 
@@ -322,6 +522,7 @@ Beats   Waves   Mix     Pulse
 <p>
   <img src="https://komarev.com/ghpvc/?username=vaibhav2225&label=Profile%20Visitors&color=FF0000&style=for-the-badge&labelColor=1a1a1a&color=FFFFFF" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vaibhav2225?label=Followers&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vaibhav2225?label=Stars&style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Stars" />
 </p>
 
 ### <span style="color: #FFFFFF;">🔴 Directive: Code the Cosmos, Ignite Eternity</span>
@@ -330,6 +531,8 @@ Beats   Waves   Mix     Pulse
 <span style="color: #FFFFFF;">**🤝 Let’s conquer the Upside Down together!**</span>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&customColorList=0,6,11&height=100&section=footer&font=Orbitron&fontColor=FFFFFF" alt="Footer" />
 
 <span style="color: #FFFFFF;">*"The neon pulse of code carves a path to the stars."* - Vaibhav Verma</span>
 
