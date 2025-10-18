@@ -90,7 +90,7 @@ class NeonMatrix:
   <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FFFFFF?style=for-the-badge&logo=netlify&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Portfolio" /></a>
   <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FFFFFF?style-for-the-badge&logo=instagram&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="Instagram" /></a>
   <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="HuggingFace" /></a>
   <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FFFFFF?style-for-the-badge&logo=github&logoColor=1C2526&labelColor=2E3A3B&color=1C2526" alt="GitHub" /></a>
 </div>
@@ -173,113 +173,78 @@ class NeonMatrix:
 ## 🎯 Cosmic Missions
 
 <div align="center">
-
-## <span style="color: #FFFFFF;">🎯 NEON MISSIONS</span>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">⚡ NOVA-3B</span>
-*Emotion-Aware LLM*
-
-```mermaid
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>NOVA-3B</strong><br><em>Emotion-Aware LLM</em><br>
+        <pre><code class="language-mermaid">
 pie title Neural Core
-    "PyTorch" : 40
-    "Transformers" : 30
-    "Emotion AI" : 20
-    "HuggingFace" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🛍️ INSCIPE</span>
-*Neon Commerce Grid*
-
-```mermaid
+  "PyTorch" : 40
+  "Transformers" : 30
+  "Emotion AI" : 20
+  "HuggingFace" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+      <td align="center" width="33%">
+        <strong>INSCIPE</strong><br><em>AI Commerce Matrix</em><br>
+        <pre><code class="language-mermaid">
 pie title Features
-    "AI Recommendations" : 30
-    "Personalization" : 25
-    "Analytics" : 25
-    "Marketplace" : 20
-```
-**Status:** 🟢 Live
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🤖 JARVIS</span>
-*Automation Nexus*
-
-```mermaid
+  "AI Recommendations" : 30
+  "Personalization" : 25
+  "Analytics" : 25
+  "Marketplace" : 20
+        </code></pre>
+        <strong>Status:</strong> 🟢 Live
+      </td>
+      <td align="center" width="33%">
+        <strong>JARVIS</strong><br><em>Automation Core</em><br>
+        <pre><code class="language-mermaid">
 pie title Systems
-    "Automation" : 35
-    "NLP" : 30
-    "APIs" : 25
-    "Scheduling" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">📱 AI for KaiOS</span>
-*Low-Resource AI*
-
-```mermaid
+  "Automation" : 35
+  "NLP" : 30
+  "APIs" : 25
+  "Scheduling" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <strong>AI for KaiOS</strong><br><em>Low-Resource AI</em><br>
+        <pre><code class="language-mermaid">
 pie title Tech Stack
-    "Lightweight Models" : 40
-    "Voice AI" : 30
-    "Optimization" : 20
-    "KaiOS" : 10
-```
-**Status:** 🟢 Active
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">📚 Arjun's Journey</span>
-*Digital Chronicle*
-
-```mermaid
+  "Lightweight Models" : 40
+  "Voice AI" : 30
+  "Optimization" : 20
+  "KaiOS" : 10
+        </code></pre>
+        <strong>Status:</strong> 🟢 Active
+      </td>
+      <td align="center" width="33%">
+        <strong>Arjun's Journey</strong><br><em>Digital Epic</em><br>
+        <pre><code class="language-mermaid">
 pie title Themes
-    "Entrepreneurship" : 35
-    "Innovation" : 30
-    "Resilience" : 20
-    "Tech" : 15
-```
-**Status:** 📖 Published
-
-</td>
-<td align="center" width="33%">
-
-### <span style="color: #FFFFFF;">🚀 Next Frontier</span>
-*Future Constructs*
-
-```mermaid
+  "Entrepreneurship" : 35
+  "Innovation" : 30
+  "Resilience" : 20
+  "Tech" : 15
+        </code></pre>
+        <strong>Status:</strong> 📖 Published
+      </td>
+      <td align="center" width="33%">
+        <strong>Next Frontier</strong><br><em>Future Constructs</em><br>
+        <pre><code class="language-mermaid">
 pie title Focus
-    "AI Innovation" : 40
-    "Web Systems" : 35
-    "Open Source" : 25
-```
-**Status:** 🔵 Planning
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
+  "AI Innovation" : 40
+  "Web Systems" : 35
+  "Open Source" : 25
+        </code></pre>
+        <strong>Status:</strong> 🔵 Planning
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-<div align="center">
-
 
 ---
 
