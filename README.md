@@ -102,8 +102,6 @@ class NeonMatrix:
 
 <div align="center">
 
- /
-
 ## <span style="color: #FFFFFF;">🌐 NEON NETWORK LINKS</span>
 
 <p>
@@ -242,13 +240,13 @@ class NeonMatrix:
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=vaibhav2225&theme=cyberpunk&hide_border=true&background=1a1a1a&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&icon_color=FF0000&text_color=FFFFFF&cache_seconds=3600" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2225&theme=cyberpunk&hide_border=true&background=1a1a1a&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&cache_seconds=3600" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav2225&theme=cyberpunk&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=FFFFFF&layout=compact&cache_seconds=3600" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
@@ -460,11 +458,54 @@ pie title Focus
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" />
   <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Spotify" /></a>
-  <!-- Neon Disc Animation with Headphones -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU3c3RqbG02a2xjdTB2c2Z3N3I4Y2U1d3E3Y3B6OHI1aXpiYzNmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKqoaCmeVmsdA3K/giphy.gif" width="250" alt="Neon Disc with Headphones" />
 </p>
 
-<span style="color: #FFFFFF;">*Stranger Things Anthem — Spinning through the neon cosmos with "Running Up That Hill," defying all odds.*</span>
+<!-- Rotating Neon Disc Timeline -->
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .disc { fill: none; stroke: #FF0000; stroke-width: 3; animation: spin 20s linear infinite; transform-origin: center; }
+      .groove { fill: none; stroke: #FFFFFF; stroke-width: 1; opacity: 0.8; }
+      .label { font-family: 'Orbitron', monospace; font-size: 8px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    </style>
+    <radialGradient id="neonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:0.2" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Disc Base -->
+  <circle class="disc" cx="150" cy="150" r="140" />
+  <circle fill="url(#neonGlow)" cx="150" cy="150" r="140" />
+  
+  <!-- Grooves (Concentric Circles for Timeline Depth) -->
+  <circle class="groove" cx="150" cy="150" r="120" />
+  <circle class="groove" cx="150" cy="150" r="100" />
+  <circle class="groove" cx="150" cy="150" r="80" />
+  <circle class="groove" cx="150" cy="150" r="60" />
+  
+  <!-- Center Label -->
+  <circle fill="#FF0000" cx="150" cy="150" r="20" />
+  <text class="label" x="150" y="155" font-size="12">NEON</text>
+  <text class="label" x="150" y="170" font-size="10">CORE</text>
+  
+  <!-- Timeline Labels (Positioned Around Disc - Rotate with It) -->
+  <g transform="rotate(0 150 150)">
+    <text class="label" x="150" y="30">2020: First Beats</text>
+  </g>
+  <g transform="rotate(90 150 150)">
+    <text class="label" x="150" y="30">2021: Synth Waves</text>
+  </g>
+  <g transform="rotate(180 150 150)">
+    <text class="label" x="150" y="30">2022: Cosmic Mix</text>
+  </g>
+  <g transform="rotate(270 150 150)">
+    <text class="label" x="150" y="30">2023: Stranger Pulse</text>
+  </g>
+</svg>
+
+<span style="color: #FFFFFF;">*Timeline spins through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
 
 </div>
 
