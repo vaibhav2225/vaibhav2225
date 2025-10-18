@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# 🔥 VAIBHAV VERMA 🔥
+# 🔴🔥 VAIBHAV VERMA 🔥🔴
 
 </div>
 
@@ -9,8 +8,8 @@
 
 <div align="center">
 
-### ▀▄▀▄▀▄ WELCOME TO THE UPSIDE DOWN ▄▀▄▀▄▀
-### *Where Innovation Meets Imagination*
+### 🔴 ▀▄▀▄▀▄ WELCOME TO THE UPSIDE DOWN ▄▀▄▀▄▀ 🔴
+### *<span style="color: #ff0000;">Where Innovation Meets Imagination</span>*
 
 </div>
 
@@ -18,9 +17,9 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-🔴_ACTIVE-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a)
-![Followers](https://img.shields.io/badge/Followers-1K+-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a)
-![Projects](https://img.shields.io/badge/Projects-50+-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a)
+![Status](https://img.shields.io/badge/Status-🔴_ACTIVE-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1)
+![Followers](https://img.shields.io/badge/Followers-1K+-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1)
+![Projects](https://img.shields.io/badge/Projects-50+-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1)
 
 </div>
 
@@ -44,15 +43,15 @@
 ## 🏅 CLEARANCE BADGES
 
 ```
-████████████████████████████████████████
-█ 👑 Founder: INSCIPE
-█ 🤖 AI Engineer (Expert)
-█ ⚡ Professional Prompt Engineer
-█ 🧠 LLM Developer
-█ 🛠️ Full Stack Developer
-█ 🚀 Entrepreneur
-█ 📚 Author
-████████████████████████████████████████
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🔴 👑 Founder: INSCIPE
+🔴 🤖 AI Engineer (Expert)
+🔴 ⚡ Professional Prompt Engineer
+🔴 🧠 LLM Developer
+🔴 🛠️ Full Stack Developer
+🔴 🚀 Entrepreneur
+🔴 📚 Author
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ```
 
 ---
@@ -159,29 +158,29 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 ## 🔮 MISSION
 
 ```
-████████████████████████████████
-█ Transform Ideas Into Reality
-█ Bridge Human & AI
-█ Innovate, Create, Inspire
-█ Make Tech Accessible
-████████████████████████████████
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🔴 Transform Ideas Into Reality
+🔴 Bridge Human & AI
+🔴 Innovate, Create, Inspire
+🔴 Make Tech Accessible
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ```
 
 ---
 
 ## 💎 CORE VALUES
 
-🚀 **INNOVATION** — Pushing boundaries of technology
+🔴 **INNOVATION** — Pushing boundaries of technology
 
-🛡️ **INTEGRITY** — Building with honesty & transparency
+🔴 **INTEGRITY** — Building with honesty & transparency
 
-💪 **IMPACT** — Solutions that matter
+🔴 **IMPACT** — Solutions that matter
 
-🤝 **INCLUSIVITY** — Technology for everyone
+🔴 **INCLUSIVITY** — Technology for everyone
 
-🔬 **CURIOSITY** — Lifelong learning journey
+🔴 **CURIOSITY** — Lifelong learning journey
 
-⚡ **EXCELLENCE** — Striving for perfection
+🔴 **EXCELLENCE** — Striving for perfection
 
 ---
 
@@ -200,14 +199,14 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 ## 🎵 NOW PLAYING
 
 ```
-🎧 Kate Bush - Running Up That Hill
-📍 Stranger Things Anthem
-💿 The Ultimate Upside Down Soundtrack
+🔴🎧 Kate Bush - Running Up That Hill
+🔴📍 Stranger Things Anthem
+🔴💿 The Ultimate Upside Down Soundtrack
 ```
 
 <div align="center">
 
-![Spotify](https://img.shields.io/badge/🎵_Listen_On_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a)
+![Spotify](https://img.shields.io/badge/🎵_Listen_On_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1)
 
 *This song captures the essence of never giving up, even when facing impossible odds.*
 
@@ -221,9 +220,9 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 
 **Have an idea? Let's build something extraordinary!**
 
-![Email](https://img.shields.io/badge/📧_Get_In_Touch-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a)
-![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/💻_View_Projects-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1a1a1a)
+<a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/📧_Get_In_Touch-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1"></a>
+<a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_View_Portfolio-FF0000?style=for-the-badge&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1"></a>
+<a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_View_Projects-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1a1a1a&cacheSeconds=1"></a>
 
 </div>
 
@@ -232,7 +231,7 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 <div align="center">
 
 ```
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ```
 
 💀 **© 2025 VAIBHAV VERMA — INNOVATION FROM THE UPSIDE DOWN** 💀
@@ -240,7 +239,7 @@ Inspiring narrative on entrepreneurship, innovation, resilience, and the journey
 *"The only way out is through — and on the other side, you'll find something extraordinary."*
 
 ```
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ```
 
 ⚡ **Last Updated:** October 2025 | **Status:** 🟢 ACTIVELY MAINTAINED | **Contributions:** Welcome! ⭐
