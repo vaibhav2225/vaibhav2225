@@ -463,38 +463,47 @@ pie title Focus
 
 <div align="center">
 
-## <span style="color: #FFFFFF;">🎵 NEON SOUNDWAVE</span>
+## 🎵 NEON SOUNDWAVE
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" />
-  <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FF0000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Spotify" /></a>
-</p>
-
-<!-- Neon Waveform Timeline -->
-<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect x="0" y="0" width="600" height="200" fill="#1a1a1a"/>
-  <!-- Waveform Path (Primary Neon Red) -->
-  <path d="M0 100 Q50 40 100 100 Q150 160 200 100 Q250 40 300 100 Q350 160 400 100 Q450 40 500 100 Q550 160 600 100" 
-        fill="none" stroke="#FF0000" stroke-width="4" stroke-opacity="0.9"/>
-  <!-- Secondary Waveform (White Glow) -->
-  <path d="M0 100 Q50 60 100 100 Q150 140 200 100 Q250 60 300 100 Q350 140 400 100 Q450 60 500 100 Q550 140 600 100" 
-        fill="none" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.7"/>
-  <!-- Timeline Labels -->
-  <text x="100" y="30" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2020: First Beats</text>
-  <text x="200" y="190" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2021: Synth Waves</text>
-  <text x="300" y="30" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2022: Cosmic Mix</text>
-  <text x="400" y="190" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">2023: Stranger Pulse</text>
-  <!-- Markers for Timeline Points -->
-  <circle cx="100" cy="100" r="5" fill="#FF0000"/>
-  <circle cx="200" cy="100" r="5" fill="#FF0000"/>
-  <circle cx="300" cy="100" r="5" fill="#FF0000"/>
-  <circle cx="400" cy="100" r="5" fill="#FF0000"/>
+<!-- Neon Waveform Header for Vaibhav Verma -->
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="100" fill="#1a1a1a"/>
+  <!-- Dynamic Waveform Lines -->
+  <path d="M0 50 Q25 20 50 50 Q75 80 100 50 Q125 20 150 50 Q175 80 200 50 Q225 20 250 50 Q275 80 300 50 Q325 20 350 50 Q375 80 400 50 Q425 20 450 50 Q475 80 500 50 Q525 20 550 50 Q575 80 600 50"
+        stroke="#FF0000" stroke-width="3" fill="none" stroke-opacity="0.9"/>
+  <path d="M0 50 Q25 30 50 50 Q75 70 100 50 Q125 30 150 50 Q175 70 200 50 Q225 30 250 50 Q275 70 300 50 Q325 30 350 50 Q375 70 400 50 Q425 30 450 50 Q475 70 500 50 Q525 30 550 50 Q575 70 600 50"
+        stroke="#FFFFFF" stroke-width="1" fill="none" stroke-opacity="0.6"/>
+  <text x="300" y="85" font-family="monospace" font-size="22" fill="#FFFFFF" text-anchor="middle">VAIBHAV VERMA</text>
 </svg>
 
-<span style="color: #FFFFFF;">*Waveform pulses through the neon cosmos—from raw beats to "Running Up That Hill" defiance. Defy odds, compose eternity.*</span>
+---
 
+<!-- Animated Music Disk -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/6e/6e63a45d278de4afab19b1cb14d2f13d_w200.gif" width="140" alt="Rotating Music Disk" />
+</p>
+
+### 🔴 Now Playing  
+**Kate Bush – Running Up That Hill (A Deal With God)**
+
+🎧 *Defying odds, through neon rhythm.*
+
+---
+
+<!-- Simulated Progress Bar -->
+<svg width="400" height="20" viewBox="0 0 400 20" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="5" width="400" height="10" rx="5" fill="#333"/>
+  <rect x="0" y="5" width="280" height="10" rx="5" fill="#FF0000">
+    <animate attributeName="width" values="0;280;0" dur="8s" repeatCount="indefinite" />
+  </rect>
+  <text x="380" y="15" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="end">02:15 / 04:30</text>
+</svg>
+
+---
+
+🎶 *“The neon pulse never sleeps — only syncs to the cosmos.”*  
 </div>
+
 
 ---
 
