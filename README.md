@@ -314,7 +314,7 @@ pie title Focus
         <p><img src="https://img.shields.io/badge/Integrity-Code_with_Honor-FFFFFF?style-for-the-badge&logo=shield&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Integrity: Code with Honor" /></p>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/vaibhav2225/vaibhav2225/blob/main/red-target-with-arrow_53876-478389.png" width="50" alt="Target representing Impact" />
+        <img src="https://github.com/vaibhav2225/vaibhav2225/blob/main/target.png" width="50" alt="Target representing Impact" />
         <br><strong style="color: #FF0000; font-family: 'Creepster', cursive;">Impact</strong>
         <br><sub style="color: #FFFFFF;">Create Lasting Change</sub>
         <p><img src="https://img.shields.io/badge/Impact-Create_Lasting_Change-FFFFFF?style-for-the-badge&logo=bullseye&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Impact: Create Lasting Change" /></p>
@@ -337,7 +337,7 @@ pie title Focus
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" alt="Musical Notes" />
     <br>
-    <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/Screenshot%202025-10-19%20171451.png" alt="Synthwave Chronicles Screenshot" width="500" />
+    <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/Screenshot%202025-10-19%20171451.png" alt="Synthwave Chronicles Screenshot" width="700" />
     <br>
     <a href="https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO?si=c5a95b574d5e4492"><img src="https://img.shields.io/badge/🎵_List-Master_of_Puppets-FFFFFF?style=for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Listen to Master of Puppets on Spotify" /></a>
   </p>
