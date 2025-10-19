@@ -21,35 +21,35 @@
     <tr>
       <td width="50%" valign="top">
         <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🔳 Quantum Core</h3>
-        <pre><code class="language-javascript" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
-class VaibhavVerma extends QuantumInnovator {
-  constructor() {
-    super();
-    this.identity = "Vaibhav Verma";
-    this.realm = "The Upside Down 🌌";
-    this.missions = [
-      "⚡ NOVA-3B: Emotion-Aware AI",
-      "🛍️ INSCIPE: Quantum Commerce Grid",
-      "🤖 JARVIS: Automation Nexus",
-      "📚 Arjun's Journey: Digital Chronicle"
+        <pre><code class="language-javascript" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; font-family: 'Courier New', monospace;">
+<span style="color: #FF6666;">class</span> VaibhavVerma <span style="color: #FF6666;">extends</span> QuantumInnovator {
+  <span style="color: #FF9999;">constructor</span>() {
+    <span style="color: #FF9999;">super</span>();
+    <span style="color: #66FFFF;">this.identity</span> = <span style="color: #FFFF66;">"Vaibhav Verma"</span>;
+    <span style="color: #66FFFF;">this.realm</span> = <span style="color: #FFFF66;">"The Upside Down 🌌"</span>;
+    <span style="color: #66FFFF;">this.missions</span> = [
+      <span style="color: #FFFF66;">"⚡ NOVA-3B: Emotion-Aware AI"</span>,
+      <span style="color: #FFFF66;">"🛍️ INSCIPE: Quantum Commerce Grid"</span>,
+      <span style="color: #FFFF66;">"🤖 JARVIS: Automation Nexus"</span>,
+      <span style="color: #FFFF66;">"📚 Arjun's Journey: Digital Chronicle"</span>
     ];
   }
 
-  get quantumCycle() {
-    return {
-      dawn: "☕ Fuel + Neural Forge",
-      midday: "🔥 Deploy AI Demogorgons",
-      dusk: "📡 Optimize Quantum Systems",
-      night: "🌌 Dream in Code Streams"
+  <span style="color: #FF6666;">get</span> quantumCycle() {
+    <span style="color: #FF6666;">return</span> {
+      dawn: <span style="color: #FFFF66;">"☕ Fuel + Neural Forge"</span>,
+      midday: <span style="color: #FFFF66;">"🔥 Deploy AI Demogorgons"</span>,
+      dusk: <span style="color: #FFFF66;">"📡 Optimize Quantum Systems"</span>,
+      night: <span style="color: #FFFF66;">"🌌 Dream in Code Streams"</span>
     };
   }
 
-  get coreDirectives() {
-    return [
-      "🤖 Master AI & LLMs",
-      "🛠️ Architect Full Stack Systems",
-      "⚡ Precision Prompt Engineering",
-      "🚀 Pioneer Quantum Ventures"
+  <span style="color: #FF6666;">get</span> coreDirectives() {
+    <span style="color: #FF6666;">return</span> [
+      <span style="color: #FFFF66;">"🤖 Master AI & LLMs"</span>,
+      <span style="color: #FFFF66;">"🛠️ Architect Full Stack Systems"</span>,
+      <span style="color: #FFFF66;">"⚡ Precision Prompt Engineering"</span>,
+      <span style="color: #FFFF66;">"🚀 Pioneer Quantum Ventures"</span>
     ];
   }
 }
@@ -57,27 +57,27 @@ class VaibhavVerma extends QuantumInnovator {
       </td>
       <td width="50%" valign="top">
         <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🌌 Quantum Matrix</h3>
-        <pre><code class="language-python" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
-class QuantumMatrix:
-    def __init__(self):
-        self.focus = {
-            "AI_Nexus": ["LLMs", "Emotion AI", "Automation"],
-            "Tech_Grid": ["Next.js", "FastAPI", "MongoDB"],
-            "Creative_Void": ["Music", "Writing", "Design"],
-            "Hardware_Core": ["Arduino", "Raspberry Pi"]
+        <pre><code class="language-python" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; font-family: 'Courier New', monospace;">
+<span style="color: #FF6666;">class</span> QuantumMatrix:
+    <span style="color: #FF9999;">def</span> <span style="color: #FF9999;">__init__</span>(self):
+        <span style="color: #66FFFF;">self.focus</span> = {
+            <span style="color: #FFFF66;">"AI_Nexus"</span>: [<span style="color: #FFFF66;">"LLMs"</span>, <span style="color: #FFFF66;">"Emotion AI"</span>, <span style="color: #FFFF66;">"Automation"</span>],
+            <span style="color: #FFFF66;">"Tech_Grid"</span>: [<span style="color: #FFFF66;">"Next.js"</span>, <span style="color: #FFFF66;">"FastAPI"</span>, <span style="color: #FFFF66;">"MongoDB"</span>],
+            <span style="color: #FFFF66;">"Creative_Void"</span>: [<span style="color: #FFFF66;">"Music"</span>, <span style="color: #FFFF66;">"Writing"</span>, <span style="color: #FFFF66;">"Design"</span>],
+            <span style="color: #FFFF66;">"Hardware_Core"</span>: [<span style="color: #FFFF66;">"Arduino"</span>, <span style="color: #FFFF66;">"Raspberry Pi"</span>]
         }
         
-    def upside_philosophy(self):
-        return """
+    <span style="color: #FF9999;">def</span> upside_philosophy(self):
+        <span style="color: #FF6666;">return</span> <span style="color: #FFFF66;">"""
         ⚡ Ignite Quantum Innovation
         🌌 Fuse Code & Demogorgon Power
         🚀 Build with Stranger Precision
         🔳 Pulse Beyond the Void
-        """
+        """</span>
     
-    def motto(self):
-        print("From Code to the Upside Down 🌌")
-        print("Eternal Quantum Impact 🔳")
+    <span style="color: #FF9999;">def</span> motto(self):
+        <span style="color: #66FF66;">print</span>(<span style="color: #FFFF66;">"From Code to the Upside Down 🌌"</span>)
+        <span style="color: #66FF66;">print</span>(<span style="color: #FFFF66;">"Eternal Quantum Impact 🔳"</span>)
         </code></pre>
       </td>
     </tr>
@@ -90,7 +90,7 @@ class QuantumMatrix:
 
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 20px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
   <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTAL-FFFFFF?style=for-the-badge&logo=netlify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Quantum Portal" /></a>
-  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/📡_SIGNAL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Emergency Signal" /></a>
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/📡_SIGNAL-FFFFFF?style-for-the-badge&logo=gmail&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Emergency Signal" /></a>
   <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/🔗_LINKEDIN-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="LinkedIn Connection" /></a>
   <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_VISION-FFFFFF?style-for-the-badge&logo=instagram&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Vision Feed" /></a>
   <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤖_HUGGINGFACE-FFFFFF?style-for-the-badge&logo=huggingface&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="AI Models" /></a>
@@ -107,7 +107,7 @@ class QuantumMatrix:
     <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,vue,nodejs,express,fastapi,django,flask&theme=dark" alt="Programming Skills: Python, HTML, CSS, JavaScript, TypeScript, Next.js, React, Vue, Node.js, Express, FastAPI, Django, Flask" />
     <br>
     <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style-for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Next.js-FFFFFF?style-for-the-badge&logo=next.js&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Next.js" />
   </p>
 
@@ -287,23 +287,12 @@ class QuantumMatrix:
 
 ---
 
-## 🎵 Synthwave Chronicles
+## 🎵 Quantum Soundscape
 
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" alt="Musical Notes" />
-    <br>
-    <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_ThatCheck_Hill-FFFFFF?style-for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Kate Bush - Running Up That Hill on Spotify" /></a>
-  </p>
-  <pre style="color: #FFFFFF; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
-2020: First Synth Beats
-2021: Retro Wave Vibes
-2022: Cosmic Synth Mix
-2023: Stranger Pulse
-2024: Quantum Defiance
-2025: Upside Down Anthem
-  </pre>
-  <p style="color: #FFFFFF; font-style: italic;">A journey from raw synth beats to an anthem defying the Upside Down.</p>
+  <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🎵 Synthwave Resistance</h3>
+  <iframe style="border-radius:12px; border: 2px solid #FF0000;" src="https://open.spotify.com/embed/track/6peoK5vIgex17ROJFWvINS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <p style="color: #FFFFFF; font-style: italic;">Fueling the Upside Down with synthwave defiance.</p>
 </div>
 
 ---
