@@ -164,93 +164,110 @@
 
 ## 🎯 Upside Down Missions
 
-<div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
-  <h2 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🔴 STRANGER MISSIONS</h2>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">⚡ NOVA-3B</h3>
-        <p style="color: #FFFFFF;">Emotion-Aware LLM</p>
-        ```mermaid
-        pie title Neural Core
-            "PyTorch" : 40
-            "Transformers" : 30
-            "Emotion AI" : 20
-            "HuggingFace" : 10
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 🟢 Active</p>
-        <p style="color: #FFFFFF;">Trained on 10M+ interactions, achieving 85% emotion detection accuracy.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">🛍️ INSCIPE</h3>
-        <p style="color: #FFFFFF;">Quantum Commerce Grid</p>
-        ```mermaid
-        pie title Features
-            "AI Recommendations" : 30
-            "Personalization" : 25
-            "Analytics" : 25
-            "Marketplace" : 20
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 🟢 Live</p>
-        <p style="color: #FFFFFF;">Powers 50K+ monthly transactions with 20% engagement boost.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">🤖 JARVIS</h3>
-        <p style="color: #FFFFFF;">Automation Nexus</p>
-        ```mermaid
-        pie title Systems
-            "Automation" : 35
-            "NLP" : 30
-            "APIs" : 25
-            "Scheduling" : 10
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 🟢 Active</p>
-        <p style="color: #FFFFFF;">Automates 1K+ tasks daily with 99% uptime.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">📱 AI for KaiOS</h3>
-        <p style="color: #FFFFFF;">Low-Resource AI</p>
-        ```mermaid
-        pie title Tech Stack
-            "Lightweight Models" : 40
-            "Voice AI" : 30
-            "Optimization" : 20
-            "KaiOS" : 10
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 🟢 Active</p>
-        <p style="color: #FFFFFF;">Deployed on 500K+ low-resource devices.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">📚 Arjun's Journey</h3>
-        <p style="color: #FFFFFF;">Digital Chronicle</p>
-        ```mermaid
-        pie title Themes
-            "Entrepreneurship" : 35
-            "Innovation" : 30
-            "Resilience" : 20
-            "Tech" : 15
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 📖 Published</p>
-        <p style="color: #FFFFFF;">Downloaded by 10K+ readers globally.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3 style="color: #FF0000; font-family: 'Creepster', cursive;">🚀 Next Frontier</h3>
-        <p style="color: #FFFFFF;">Future Constructs</p>
-        ```mermaid
-        pie title Focus
-            "AI Innovation" : 40
-            "Web Systems" : 35
-            "Open Source" : 25
-        ```
-        <p style="color: #FFFFFF;"><strong>Status:</strong> 🔵 Planning</p>
-        <p style="color: #FFFFFF;">Targeting Q2 2026 launch.</p>
-      </td>
-    </tr>
-  </table>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="VHS Glitch Divider" />
+<div align="center">
+
+## <span style="color: #FFFFFF;">🎯 NEON MISSIONS</span>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">⚡ NOVA-3B</span>
+*Emotion-Aware LLM*
+
+```mermaid
+pie title Neural Core
+    "PyTorch" : 40
+    "Transformers" : 30
+    "Emotion AI" : 20
+    "HuggingFace" : 10
+```
+**Status:** 🟢 Active
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">🛍️ INSCIPE</span>
+*Neon Commerce Grid*
+
+```mermaid
+pie title Features
+    "AI Recommendations" : 30
+    "Personalization" : 25
+    "Analytics" : 25
+    "Marketplace" : 20
+```
+**Status:** 🟢 Live
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">🤖 JARVIS</span>
+*Automation Nexus*
+
+```mermaid
+pie title Systems
+    "Automation" : 35
+    "NLP" : 30
+    "APIs" : 25
+    "Scheduling" : 10
+```
+**Status:** 🟢 Active
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">📱 AI for KaiOS</span>
+*Low-Resource AI*
+
+```mermaid
+pie title Tech Stack
+    "Lightweight Models" : 40
+    "Voice AI" : 30
+    "Optimization" : 20
+    "KaiOS" : 10
+```
+**Status:** 🟢 Active
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">📚 Arjun's Journey</span>
+*Digital Chronicle*
+
+```mermaid
+pie title Themes
+    "Entrepreneurship" : 35
+    "Innovation" : 30
+    "Resilience" : 20
+    "Tech" : 15
+```
+**Status:** 📖 Published
+
+</td>
+<td align="center" width="33%">
+
+### <span style="color: #FFFFFF;">🚀 Next Frontier</span>
+*Future Constructs*
+
+```mermaid
+pie title Focus
+    "AI Innovation" : 40
+    "Web Systems" : 35
+    "Open Source" : 25
+```
+**Status:** 🔵 Planning
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
 </div>
+
 
 ---
 
