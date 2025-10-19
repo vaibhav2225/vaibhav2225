@@ -100,32 +100,32 @@ class NeonMatrix:
 <p style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <a href="https://vaibhav-verma.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Portfolio" style="height:30px;" />
+         alt="Portfolio" style="height:20px;" />
   </a>
 
   <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Email" style="height:30px;" />
+         alt="Email" style="height:20px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="LinkedIn" style="height:30px;" />
+         alt="LinkedIn" style="height:20px;" />
   </a>
 
   <a href="https://www.instagram.com/vaibhav_verma25_/">
     <img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Instagram" style="height:30px;" />
+         alt="Instagram" style="height:20px;" />
   </a>
 
   <a href="https://huggingface.co/VAIBHAV22334455">
     <img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="HuggingFace" style="height:30px;" />
+         alt="HuggingFace" style="height:20px;" />
   </a>
 
   <a href="https://github.com/vaibhav2225">
     <img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="GitHub" style="height:30px;" />
+         alt="GitHub" style="height:20px;" />
   </a>
 </p>
 
