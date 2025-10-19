@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="google-site-verification" content="1SItgo5a3nEqYzeaM0NXQtQ0cORN2J3-9P_uMsXRM7M" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Vaibhav Verma — Innovator, AI developer, entrepreneur, and author. Explore his projects, creative achievements, and vision for the future of technology and business.">
+  <meta name="keywords" content="Vaibhav Verma, AI Innovator, Entrepreneur, Author, Inscipe, AI Developer, Music Composer, NOVA AI, Arjun’s Journey, Technology, Gaming, Portfolio">
+  <meta name="author" content="Vaibhav Verma">
+
+  <!-- Open Graph (Facebook, LinkedIn, etc.) -->
+  <meta property="og:title" content="Vaibhav Verma — Innovator, AI Developer & Entrepreneur">
+  <meta property="og:description" content="Discover Vaibhav Verma's journey as an AI pioneer, entrepreneur, author, and founder of Inscipe. Explore his groundbreaking projects in technology, e-commerce, and creative arts.">
+  <meta property="og:image" content="link-to-your-profile-image.jpg">
+  <meta property="og:url" content="https://www.inscipe.shop/">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Vaibhav Verma — Innovator, AI Developer & Entrepreneur">
+  <meta name="twitter:description" content="Explore Vaibhav Verma's AI innovations, entrepreneurial ventures, and creative projects. Founder of Inscipe and author of 'Arjun’s Journey'.">
+  <meta name="twitter:image" content="link-to-your-profile-image.jpg">
+
+  <title>Vaibhav Verma — Innovator, AI Developer & Entrepreneur</title>
+
+  <!-- Styles & Icons -->
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@400;600&family=Noto+Serif+Devanagari:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+  <!-- EmailJS SDK -->
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+  <!-- SweetAlert2 CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <!-- Schema.org: Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Vaibhav Verma",
+    "description": "Vaibhav Verma is an entrepreneur, AI developer, author, and music composer. Founder of Inscipe, known for his work in AI, e-commerce, and creative innovation.",
+    "url": "https://www.inscipe.shop/",
+    "sameAs": [
+      "https://www.instagram.com/vaibhav_verma25_/",
+      "https://www.youtube.com/@Vaibhav-Verma22",
+      "https://github.com/vaibhav2225",
+      "https://huggingface.co/VAIBHAV22334455",
+      "https://pin.it/hlKJgxMPo",
+      "https://in.linkedin.com/in/vaibhav-verma-6548802a1"
+    ],
+    "image": "link-to-your-profile-image.jpg"
+  }
+  </script>
+
+  <!-- Schema.org: FAQ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Who is Vaibhav Verma?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vaibhav Verma is an entrepreneur, AI developer, and author. He is the founder of Inscipe, known for projects in AI, gaming, e-commerce, and creative ventures including his book 'Arjun’s Journey: From Doubt to Determination'."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are Vaibhav Verma's major accomplishments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vaibhav Verma has developed AI systems like NOVA, founded the e-commerce platform Inscipe, authored a motivational book, composed AI-generated music, and worked on innovations in gaming, hardware, and business."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <!-- Particles.js Container -->
+  <div id="particles-js"></div>
+
+  <!-- Chat Hover Button -->
+  <a href="#" id="chat-hover-btn" onclick="toggleChatPopup()">Chat with NOVA-V1</a>
+
+  <!-- Chat Popup -->
+  <div id="chat-popup" role="dialog" aria-labelledby="chat-popup-title">
+    <div class="chat-popup-header">
+      <span id="chat-popup-title">NOVA-V1</span>
+      <div class="button-container">
+        <span class="maximize-chat fas fa-expand" onclick="maximizeChat()" role="button" tabindex="0" aria-label="Maximize chat"></span>
+        <span class="close-chat fas fa-times" onclick="closeChatPopup()" role="button" tabindex="0" aria-label="Close chat"></span>
+      </div>
+    </div>
+    <iframe src="NOVA.html" title="NOVA-V1 Chat Interface" aria-label="Chat with NOVA-V1"></iframe>
+  </div>
+
+  <!-- Header -->
+  <header>
+    <nav>
+      <div class="logo">Vaibhav</div>
+      <ul class="nav-links">
+        <li><a href="#hero">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#timeline">Timeline</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#certificates">Certificates</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#best-friend">Friends</a></li>
+      </ul>
+      <div class="hamburger" role="button" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <div id="threejs-hero"></div>
+    <div class="hero-content">
+      <h1>Vaibhav's Innovation Hub</h1>
+      <p>Expert in AI, Development, Electronics, Creativity & Entrepreneurship</p>
+      <a href="#projects" class="btn">Discover My World</a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="/assats/me.jpg" alt="Vaibhav's Profile Image" class="profile-image">
+    <p>I'm Vaibhav, a <span class="age"></span>-year-old multifaceted innovator, founder of Inscipe, published author, AI pioneer, professional prompt engineer, and passionate tech enthusiast. With expertise in programming, artificial intelligence, hardware engineering, creative arts, and entrepreneurship, I focus on building impactful projects that combine technology with creativity. From developing AI models and web applications to writing poetry and composing AI-generated music, I continue to explore diverse fields with curiosity and dedication, driven by the belief to dream big, work hard, and never stop learning.</p>
+  </section>
+
+ 
+
+  <!-- Timeline Section -->
+  <section id="timeline">
+    <h2>My Journey</h2>
+    <div class="timeline-container">
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2010</h3>
+          <p>Born in India 🇮🇳 on February 25.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2014</h3>
+          <p>Started school, laying the foundation for learning.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2020</h3>
+          <p>Built first robot from RC car parts. Explored RC cars, drones, and mobile games. Struggled academically.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2021</h3>
+          <p>Inspired by Iron Man, dove into tech. Attempted PC repair, kept components for projects. Focused on mobile games during COVID-19.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2022</h3>
+          <p>I started coding in HTML, CSS, JavaScript, and Python. I built and sold an AI website, and then my parents bought me a PC.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2023</h3>
+          <p>Learned ethical hacking and AI/ML. Created NOVA and Jarvis. founded WebWagon (later Cyprixex) for AI and web services.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2024</h3>
+          <p>Renamed company to Inscipe. Wrote "Arjun’s Journey" book, composed poetry, and innovated hardware (400KV stun gun, revived old phone).</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h3>2025</h3>
+          <p>Relaunched Inscipe as e-commerce platform, earning ₹5.5 lakh in 2 months. Expanded into social media marketing and AI fine-tuning.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills & Expertise</h2>
+    <div class="skills-grid">
+      <div class="skill-card" style="--progress-width: 92%;">
+        <h3>Programming & Development</h3>
+        <div class="skill-item">
+          <span>Python (Automation, AI, Scripting)</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 92%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Web Development (HTML, CSS, JavaScript)</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 87%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Next.js Framework</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 40%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>AI Model Integration</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 80%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Game Development (PC & Web)</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 75%;"></div></div>
+        </div>
+      </div>
+      <div class="skill-card" style="--progress-width: 90%;">
+        <h3>Artificial Intelligence</h3>
+        <div class="skill-item">
+          <span>Emotion-Aware AI Development</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 88%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Efficient AI Model Design</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 85%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>AI Automation Tools</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 80%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Prompt Engineering</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 92%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>AI-Driven Music Creation</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 78%;"></div></div>
+        </div>
+      </div>
+      <div class="skill-card" style="--progress-width: 90%;">
+        <h3>Electronics & Hardware</h3>
+        <div class="skill-item">
+          <span>Custom High-Voltage Projects</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 90%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>PC Security & Thermal Solutions</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 85%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>PC Building & Optimization</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 80%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Device Repair & Prototyping</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 78%;"></div></div>
+        </div>
+      </div>
+      <div class="skill-card" style="--progress-width: 90%;">
+        <h3>Creative Skills</h3>
+        <div class="skill-item">
+          <span>Published Author</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 90%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Poetry & Creative Writing</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 85%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Sound Design & Music Composition</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 80%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Photo & Video Editing</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 75%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Graphic Design</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 82%;"></div></div>
+        </div>
+      </div>
+      <div class="skill-card" style="--progress-width: 95%;">
+        <h3>Entrepreneurship</h3>
+        <div class="skill-item">
+          <span>Startup Founder</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 95%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>E-commerce & Business Strategy</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 90%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Marketing & Branding</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 88%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Product Development</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 92%;"></div></div>
+        </div>
+      </div>
+      <div class="skill-card" style="--progress-width: 90%;">
+        <h3>Gaming & Sports</h3>
+        <div class="skill-item">
+          <span>PC Gaming</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 90%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Strategic Gameplay</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 85%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Cricket</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 88%;"></div></div>
+        </div>
+        <div class="skill-item">
+          <span>Volleyball</span>
+          <div class="progress-bar"><div class="progress-fill" style="--progress-width: 86%;"></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects & Examples</h2>
+    <div class="projects-grid">
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>NOVA-3B</h3>
+            <p>A cutting-edge LLM trained to understand and respond to emotions.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A cutting-edge LLM trained to understand and respond to emotions, enhancing human-AI interactions.</p>
+          <a href="https://huggingface.co/VAIBHAV22334455/NOVA-3B" class="btn" target="_blank">View on Hugging Face</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>NOVA-3B-V4</h3>
+            <p>A compact, efficient AI model for low-end devices.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A compact, efficient AI model bringing advanced tech to low-end devices.</p>
+          <a href="https://huggingface.co/VAIBHAV22334455/NOVA-3B-V4" class="btn" target="_blank">View on Hugging Face</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Jarvis</h3>
+            <p>A powerful AI for multitasking and automation.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A powerful AI designed for multitasking and intelligent automation.</p>
+          <a href="https://huggingface.co/VAIBHAV22334455/JARVIS" class="btn" target="_blank">View on Hugging Face</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>A Story of Arjun</h3>
+            <p>Published motivational book.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>Arjun’s Journey: From Doubt to Determination, a story of resilience, growth, and my authorial craft.</p>
+          <div class="btn-container">
+            <a href="/assats/Ebook.pdf" class="btn" target="_blank">Read PDF</a>
+            <a href="/assats/Ebook.pdf" class="btn" download>Download PDF</a>
+          </div>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>AI-Composed Song</h3>
+            <p>Kuch Hai Yaar, a soulful melody.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>Kuch Hai Yaar, a soulful song blending music and AI technology for a unique melody.</p>
+          <a href="https://youtu.be/QXCZGe5xQhE?si=BZH43oLOpv3ZJO9m" class="btn" target="_blank">Listen on YouTube</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Inscipe</h3>
+            <p>A startup founded by me</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>Inscipe is an innovative business venture I created, combining technology, design, and strategy.</p>
+          <a href="https://www.inscipe.shop/" class="btn" target="_blank">Visit Inscipe</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Escape from Supra</h3>
+            <p>A high-speed Roblox game.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A high-speed Roblox game where players dodge obstacles and escape in style.</p>
+          <a href="https://www.roblox.com/games/17088633989/Escape-from-Supra" class="btn" target="_blank">Play on Roblox</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Just for Fun</h3>
+            <p>A casual Roblox game.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A casual Roblox game crafted for pure entertainment.</p>
+          <a href="https://www.roblox.com/games/17087122957/Just-for-fun" class="btn" target="_blank">Play on Roblox</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>station-for-all</h3>
+            <p>A school project with useful websites.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A school project featuring a collection of useful websites for easy access.</p>
+          <a href="https://station-for-all.netlify.app/" class="btn" target="_blank">Visit Site</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>AI for KaiOS</h3>
+            <p>AI integration for KaiOS devices.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>An AI-powered solution designed for KaiOS devices to enhance functionality.</p>
+          <a href="https://w32.netlify.app/" class="btn" target="_blank">View Site</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Video Editing Examples</h3>
+            <p>Professional video edits and productions.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>Showcasing skills in video editing with various tools and techniques.</p>
+          <a href="https://www.instagram.com/inscipe.shop/reels/" class="btn" target="_blank">View Examples</a>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-front">
+          <div class="project-info">
+            <h3>Kavita (Hindi Poetry)</h3>
+            <p>Original poems in Hindi.</p>
+          </div>
+        </div>
+        <div class="project-back">
+          <h3>Details</h3>
+          <p>A collection of heartfelt poems exploring themes of life, emotions, and inspiration.</p>
+          <button class="btn" onclick="openPopup()">Read Poems</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Popup for Kavita -->
+    <div class="popup" id="kavita-popup">
+      <div class="popup-content">
+        <span class="close-popup" onclick="closePopup()">&times;</span>
+        <h3>छत्रपति शिवाजी महाराज</h3>
+        <p>
+          छत्रपति शिवाजी महाराज<br>
+          सिंहगर्जना से गूंजा था पर्वत,<br>
+          धरती ने देखा था वीर अनोखा।<br>
+          छोटा सा बालक, सपनों में विशाल,<br>
+          स्वराज्य का दीपक जला गया रोशन।<br>
+          अन्याय के अंधेरों में जली मशाल थी,<br>
+          ग़ुलामी की जंजीरें तोड़ दी उसने।<br>
+          माँ की ममता, गुरु की वाणी,<br>
+          मिट्टी की खुशबू से शक्ति पाई उसने।<br>
+          तलवार नहीं, तोरण था उसका,<br>
+          प्रजा का सुख ही राजमुकुट था।<br>
+          हर किले की ईंट पुकारे आज भी,<br>
+          “ये है स्वराज्य, शिवबा का सपना।”<br>
+          हवा से तेज़ उसका संकल्प था,<br>
+          सिंहासन से ऊँचा उसका धर्म था।<br>
+          छत्रपति नहीं, जन-जन का रक्षक था।
+        </p>
+        <audio id="kavita-audio" src="/assats/छत्रपति शिवाजी महाराज.mp3"></audio>
+        <button class="audio-btn" onclick="playAudio()">Listen to Poem</button>
+      </div>
+    </div>
+  </section>
+
+   <section id="best-friend">
+        <h2>Best Friend & Co-Founder</h2>
+        <div class="friend-container">
+            <div class="friend-content">
+                <h3>Aditya Kumar</h3>
+                <p>My best friend and co-founder of Inscipe, Aditya Kumar, is a brilliant tech enthusiast and innovator. Together, we launched WebWagon (later Cyprixex and Inscipe), combining our passion for AI, web development, and entrepreneurship to create impactful solutions.</p>
+                <a href="https://aditya-kumar2.netlify.app/" class="btn" target="_blank">Visit Aditya's Portfolio</a>
+            </div>
+        </div>
+    </section>
+
+  <!-- Certificates Section -->
+  <section id="certificates">
+    <h2>Certificates</h2>
+    <div class="certificates-grid">
+      <div class="certificate">
+        <img src="/assats/Array-Methods.jpg" alt="Certificate in Array Methods">
+        <p>Certificate in Array Methods</p>
+      </div>
+      <div class="certificate">
+        <img src="/assats/Coding-Fundalmentals.jpg" alt="Coding Fundamentals">
+        <p>Certificate in Coding Fundamentals</p>
+      </div>
+      <div class="certificate">
+        <img src="/assats/Coding-Fundalmentals2.jpg" alt="Coding Fundamentals II">
+        <p>Certificate in Coding Fundamentals II</p>
+      </div>
+      <div class="certificate">
+        <img src="/assats/Certificates-Animations.jpg" alt="Certificate in Certificates-Animations">
+        <p>Certificate in Certificates-Animations</p>
+      </div>
+      <div class="certificate">
+        <img src="/assats/Certificates-Animations2.jpg" alt="Certificate in Certificates-Animations II">
+        <p>Certificate in Certificates-Animations II</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contact-form">
+      <input type="text" id="name" name="name" placeholder="Your Name" required aria-label="Your Name">
+      <input type="email" id="email" name="email" placeholder="Your Email" required aria-label="Your Email">
+      <div id="message-type-container">
+        <select id="preset" name="preset" aria-label="Select Message Type">
+          <option value="" disabled selected>Select a message type</option>
+          <option value="Brand collaboration wanted to work with me">Brand Collaboration</option>
+          <option value="Technical issue with product">Technical Issue with Product</option>
+          <option value="Feedback on service">Feedback on Service</option>
+          <option value="Partnership proposal">Partnership Proposal</option>
+          <option value="Job opportunity inquiry">Job Opportunity Inquiry</option>
+          <option value="General support request">General Support Request</option>
+          <option value="Custom Message">Custom Message</option>
+        </select>
+      </div>
+      <textarea id="message" name="message" placeholder="Your Message" required aria-label="Your Message"></textarea>
+      <button type="submit" id="submit-btn">Send Message</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Vaibhav. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://www.instagram.com/vaibhav_verma25_/" target="_blank" title="Instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://www.youtube.com/@Vaibhav-Verma22" target="_blank" title="YouTube">
+        <i class="fab fa-youtube"></i>
+      </a>
+      <a href="https://huggingface.co/VAIBHAV22334455" target="_blank" title="Hugging Face">
+        <i class="fas fa-robot"></i>
+      </a>
+      <a href="https://github.com/vaibhav2225" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://www.inscipe.shop/" target="_blank" title="Inscipe">
+        <i class="fas fa-building"></i>
+      </a>
+      <a href="https://in.linkedin.com/in/vaibhav-verma-6548802a1" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://pin.it/hlKJgxMPo" target="_blank" title="Pinterest">
+        <i class="fab fa-pinterest"></i>
+      </a>
+      <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com" title="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </div>
+  </footer>
+
+  <!-- JavaScript Libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>
