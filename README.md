@@ -16,48 +16,42 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔳 Quantum Core</h3>
-      <pre><code class="language-javascript">
-class VaibhavVerma extends CosmicInnovator {
-  constructor() {
-    super();
-    this.identity = "Vaibhav Verma";
-    this.domain = "Neon Upside Down 🌌";
-    this.missions = [
-      "⚡ NOVA-3B: Emotion-Aware AI",
-      "🛍️ INSCIPE: AI Commerce Matrix",
-      "🤖 JARVIS: Automation Core",
-      "📚 Arjun's Journey: Digital Epic"
-    ];
-  }
+<div style="display: flex; justify-content: center; gap: 20px; padding: 25px; background: linear-gradient(45deg, #1C2526, #2D1B1B); border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000; color: #FFFFFF; font-family: 'Courier New', monospace;">
 
-  get cyberCycle() {
-    return {
-      dawn: "☕ Fuel + Neural Forge",
-      midday: "🔥 Deploy AI Constructs",
-      dusk: "📡 Optimize Cyber Systems",
-      night: "🌌 Dream in Code Streams"
-    };
-  }
+  <!-- Left Code Block -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+    <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🔳 Quantum Core</h3>
+    <pre style="flex: 1; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; overflow: auto; font-size: 14px; line-height: 1.4;">
+class VaibhavVerma extends QuantumInnovator {
+    constructor() {
+        super();
+        this.identity = "Vaibhav Verma";
+        this.realm = "The Upside Down 🌌";
+        this.missions = [
+            "⚡ NOVA-3B: Emotion-Aware AI",
+            "🛍️ INSCIPE: Quantum Commerce Grid",
+            "🤖 JARVIS: Automation Nexus",
+            "📚 Arjun's Journey: Digital Chronicle"
+        ];
+    }
 
-  get coreDirectives() {
-    return [
-      "🤖 Master AI & LLMs",
-      "🛠️ Architect Full Stack Systems",
-      "⚡ Precision Prompt Engineering",
-      "🚀 Pioneer Cosmic Ventures"
-    ];
-  }
+    get quantumCycle() {
+        return {
+            dawn: "☕ Fuel + Neural Forge",
+            midday: "🔥 Deploy AI Demogorgons",
+            dusk: "📡 Optimize Quantum Systems",
+            night: "🌌 Dream in Code Streams"
+        };
+    }
 }
-      </code></pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 Infinity Matrix</h3>
-      <pre><code class="language-python">
-class NeonMatrix:
+    </pre>
+  </div>
+
+  <!-- Right Code Block -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+    <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🌌 Quantum Matrix</h3>
+    <pre style="flex: 1; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; overflow: auto; font-size: 14px; line-height: 1.4;">
+class QuantumMatrix:
     def __init__(self):
         self.focus = {
             "AI_Nexus": ["LLMs", "Emotion AI", "Automation"],
@@ -65,22 +59,23 @@ class NeonMatrix:
             "Creative_Void": ["Music", "Writing", "Design"],
             "Hardware_Core": ["Arduino", "Raspberry Pi"]
         }
-        
-    def cosmic_philosophy(self):
+
+    def upside_philosophy(self):
         return """
-        ⚡ Ignite Cosmic Innovation
-        🌌 Fuse Code & Creativity
-        🚀 Build with Precision
-        🔳 Pulse Beyond the Stars
-        """
-    
+⚡ Ignite Quantum Innovation
+🌌 Fuse Code & Demogorgon Power
+🚀 Build with Stranger Precision
+🔳 Pulse Beyond the Void
+"""
+
     def motto(self):
-        print("From Code to Cosmos 🌌")
-        print("Eternal Impact 🔳")
-      </code></pre>
-    </td>
-  </tr>
-</table>
+        print("From Code to the Upside Down 🌌")
+        print("Eternal Quantum Impact 🔳")
+    </pre>
+  </div>
+
+</div>
+
 
 ---
 
