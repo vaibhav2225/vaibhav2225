@@ -1,7 +1,8 @@
 # Vaibhav Verma | Architect of the Upside Down
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=eb0000ff&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=eb0000ff" alt="Header" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0000,8b0000,ff0000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&fontColor=ffffff" alt="Header" />
+
 
 
   <p style="color: #eb0000ff; font-family: 'Creepster', cursive; font-size: 1.4em; text-shadow: 0 0 10px #FF0000;">
