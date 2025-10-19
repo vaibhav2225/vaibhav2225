@@ -5,7 +5,6 @@
 
 
 
-
   <p style="color: #eb0000ff; font-family: 'Creepster', cursive; font-size: 1.4em; text-shadow: 0 0 10px #FF0000;">
     <strong>⚡ Master of AI Demogorgons | 🌌 Weaver of Quantum Code | 🚀 Builder of Upside Down Systems</strong>
   </p>
