@@ -190,7 +190,7 @@ class NeonMatrix:
        alt="GitHub Stats for vaibhav2225" />
 
   <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=1C2526&title_color=FF0000&text_color=FFFFFF&hide=forks=false" 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=1C2526&title_color=FF0000&text_color=FFFFFF&hide=forks=false&cache_seconds=3600" 
        alt="Top Languages for vaibhav2225" />
 
   <!-- GitHub Activity Graph -->
@@ -198,6 +198,7 @@ class NeonMatrix:
        alt="GitHub Activity Graph for vaibhav2225" width="100%" />
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
