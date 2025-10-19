@@ -1,7 +1,7 @@
 # Vaibhav Verma | Architect of the Upside Down
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=smile&color=8B0000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=shake&font=Creepster&fontColor=ffffff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=pulse&font=Creepster&fontColor=ffffff" alt="Header" />
 
 
 
