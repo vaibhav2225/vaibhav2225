@@ -293,7 +293,9 @@
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" alt="Musical Notes" />
     <br>
-    <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FFFFFF?style-for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Kate Bush - Running Up That Hill on Spotify" /></a>
+    <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/Screenshot%202025-10-19%20171451.png" alt="Synthwave Chronicles Screenshot" width="300" />
+    <br>
+    <a href="https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO?si=c5a95b574d5e4492"><img src="https://img.shields.io/badge/🎵_List-Master_of_Puppets-FFFFFF?style=for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Listen to Master of Puppets on Spotify" /></a>
   </p>
   <pre style="color: #FFFFFF; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
 2020: First Synth Beats
