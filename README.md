@@ -96,9 +96,17 @@ class NeonMatrix:
 
 ---
 
+
+
+</div>
+
+---
+
+## 🌐 Network Portal
+
 <div align="center">
 
-## <span style="color: #FFFFFF;">🌐 NEON NETWORK LINKS</span>
+## <span style="color: #ff2828ff;">🌐 NEON NETWORK LINKS</span>
 
 <p>
   <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1a1a1a&color=FFFFFF" alt="Portfolio" /></a>
@@ -110,22 +118,6 @@ class NeonMatrix:
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
-</div>
-
----
-
-## 🌐 Network Portal
-
-<div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 20px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
-  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTAL-FFFFFF?style=for-the-badge&logo=netlify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Quantum Portal" /></a>
-  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/📡_SIGNAL-FFFFFF?style-for-the-badge&logo=gmail&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Emergency Signal" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/🔗_LINKEDIN-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="LinkedIn Connection" /></a>
-  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_VISION-FFFFFF?style-for-the-badge&logo=instagram&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Vision Feed" /></a>
-  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤖_HUGGINGFACE-FFFFFF?style-for-the-badge&logo=huggingface&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="AI Models" /></a>
-  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GITHUB-FFFFFF?style-for-the-badge&logo=github&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Code Repository" /></a>
-</div>
-
 ---
 
 ## 🎨 Quantum Skill Matrix
