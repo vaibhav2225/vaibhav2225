@@ -100,32 +100,32 @@ class NeonMatrix:
 <p style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <a href="https://vaibhav-verma.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Portfolio" style="height:25px;" />
+         alt="Portfolio" style="height:30px;" />
   </a>
 
   <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Email" style="height:25px;" />
+         alt="Email" style="height:30px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="LinkedIn" style="height:25px;" />
+         alt="LinkedIn" style="height:30px;" />
   </a>
 
   <a href="https://www.instagram.com/vaibhav_verma25_/">
     <img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="Instagram" style="height:25px;" />
+         alt="Instagram" style="height:30px;" />
   </a>
 
   <a href="https://huggingface.co/VAIBHAV22334455">
     <img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="HuggingFace" style="height:25px;" />
+         alt="HuggingFace" style="height:30px;" />
   </a>
 
   <a href="https://github.com/vaibhav2225">
     <img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
-         alt="GitHub" style="height:25px;" />
+         alt="GitHub" style="height:30px;" />
   </a>
 </p>
 
@@ -135,36 +135,29 @@ class NeonMatrix:
 ## 🎨 Quantum Skill Matrix
 
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
+
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">⚡ Programming & Development</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,nodejs,flask&theme=dark" alt="Programming Skills: Python, HTML, CSS, JavaScript, TypeScript, Next.js, React,  Node.js, Express, FastAPI, Django, Flask" />
-    <br>
-    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style-for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Next.js-FFFFFF?style-for-the-badge&logo=next.js&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,nextjs,react,nodejs,flask,django&theme=dark" 
+         alt="Programming Skills" />
   </p>
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🗄️ Databases & Data Tools</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,redis&theme=dark" alt="Database Skills: PostgreSQL, MongoDB, Firebase, Redis" />
-    <br>
-    <img src="https://img.shields.io/badge/CockroachDB-FFFFFF?style-for-the-badge&logo=cockroachdb&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="CockroachDB" />
-    <img src="https://img.shields.io/badge/SQL-FFFFFF?style-for-the-badge&logo=postgresql&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="SQL" />
-    <img src="https://img.shields.io/badge/JSON-FFFFFF?style-for-the-badge&logo=json&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JSON" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,redis&theme=dark" alt="Databases & Data Tools" />
   </p>
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🤖 AI & Machine Learning</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML Skills: PyTorch, TensorFlow, Scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,ai&theme=dark" alt="AI & ML Skills" />
     <br>
-    <img src="https://img.shields.io/badge/GPT-FFFFFF?style-for-the-badge&logo=openai&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="GPT" />
-    <img src="https://img.shields.io/badge/BERT-FFFFFF?style-for-the-badge&logo=google&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="BERT" />
-    <img src="https://img.shields.io/badge/Transformers-FFFFFF?style-for-the-badge&logo=huggingface&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Transformers" />
+    <img src="https://img.shields.io/badge/GPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="GPT" />
+    <img src="https://img.shields.io/badge/BERT-FFFFFF?style=for-the-badge&logo=google&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="BERT" />
   </p>
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🛠️ Tools & Infrastructure</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,gcp,vscode,raspberrypi,arduino&theme=dark" alt="Tools: Docker, Git, Linux,GCP, VS Code, Raspberry Pi, Arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,discord,windows,linux&theme=dark" alt="Tools & Infrastructure" />
     <br>
     <img src="https://img.shields.io/badge/Docker-FFFFFF?style-for-the-badge&logo=docker&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Docker" />
     <img src="https://img.shields.io/badge/AWS-FFFFFF?style-for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="AWS" />
@@ -173,12 +166,14 @@ class NeonMatrix:
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🎨 Creative & Other Skills</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Published_Author-FFFFFF?style-for-the-badge&logo=book&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Published Author" />
-    <img src="https://img.shields.io/badge/Music_Composition-FFFFFF?style-for-the-badge&logo=music&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Music Composition" />
-    <img src="https://img.shields.io/badge/Graphic_Design-FFFFFF?style-for-the-badge&logo=adobe&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Graphic Design" />
-    <img src="https://img.shields.io/badge/Startup_Founder-FFFFFF?style-for-the-badge&logo=rocket&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Startup Founder" />
+    <img src="https://skillicons.dev/icons?i=photoshop,blender,illustrator,premierepro,robloxstudio,unity,unreal&theme=dark" alt="Creative & Other Skills" />
+    <br>
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style-for-the-badge&logo=instagram&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="LinkedIn" />
   </p>
+
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
