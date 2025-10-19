@@ -181,29 +181,21 @@ class NeonMatrix:
 
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
 
-  <!-- GitHub Trophy -->
+  <!-- GitHub Trophies -->
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vaibhav2225&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title_color=FF0000&text_color=FFFFFF" 
        alt="GitHub Trophies for vaibhav2225" />
 
   <!-- GitHub Stats -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2225&show_icons=true&theme=radical&hide_border=true&bg_color=1C2526&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&cache_seconds=3600&hide=forks=false" 
        alt="GitHub Stats for vaibhav2225" />
-  
+
   <!-- Top Languages -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2225&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=1C2526&title_color=FF0000&text_color=FFFFFF&hide=forks=false" 
        alt="Top Languages for vaibhav2225" />
 
-  <!-- Contribution Graph -->
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2225&custom_title=Quantum%20Code%20Matrix&bg_color=1C2526&color=FF0000&line=FF6666&point=FFFFFF&area_color=FF0000&area=true&hide_border=true" 
        alt="GitHub Activity Graph for vaibhav2225" width="100%" />
-
-  <!-- Additional Badges -->
-  <p align="center" style="margin-top:10px;">
-    <img src="https://img.shields.io/github/stars/vaibhav2225?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/vaibhav2225?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/issues/vaibhav2225?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="GitHub Issues" />
-    <img src="https://img.shields.io/github/contributors/vaibhav2225?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Contributors" />
-  </p>
 
 </div>
 
