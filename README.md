@@ -104,15 +104,15 @@ class NeonMatrix:
 
 ## 🌐 Network Portal
 
-## <span style="color: #f70b0b8f;">🌐 NEON NETWORK LINKS</span>
+## <span style="color: #f70b0b;">🌐 NEON NETWORK LINKS</span>
 
 <p>
-  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="Portfolio" /></a>
-  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="Instagram" /></a>
-  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="HuggingFace" /></a>
-  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=f70b0b8f&labelColor=1a1a1a&color=f70b0b8f" alt="GitHub" /></a>
+  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Portfolio" /></a>
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Instagram" /></a>
+  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="HuggingFace" /></a>
+  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="GitHub" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
