@@ -1,7 +1,7 @@
 # Vaibhav Verma | Architect of the Upside Down
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,CC0000,990000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=FFFFFF&textCase=upper" alt="Stranger Things Red Header: VAIBHAV VERMA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=FFFFFF&textCase=upper" alt="Stranger Things Red Header: VAIBHAV VERMA" />
 
   <p style="color: #FF0000; font-family: 'Creepster', cursive; font-size: 1.4em; text-shadow: 0 0 10px #FF0000;">
     <strong>⚡ Master of AI Demogorgons | 🌌 Weaver of Quantum Code | 🚀 Builder of Upside Down Systems</strong>
@@ -293,18 +293,10 @@
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" alt="Musical Notes" />
     <br>
-    <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/Screenshot%202025-10-19%20171451.png" alt="Synthwave Chronicles Screenshot" width="300" />
+    <img src="https://raw.githubusercontent.com/vaibhav2225/vaibhav2225/main/Screenshot%202025-10-19%20171451.png" alt="Synthwave Chronicles Screenshot" width="500" />
     <br>
     <a href="https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO?si=c5a95b574d5e4492"><img src="https://img.shields.io/badge/🎵_List-Master_of_Puppets-FFFFFF?style=for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Listen to Master of Puppets on Spotify" /></a>
   </p>
-  <pre style="color: #FFFFFF; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
-2020: First Synth Beats
-2021: Retro Wave Vibes
-2022: Cosmic Synth Mix
-2023: Stranger Pulse
-2024: Quantum Defiance
-2025: Upside Down Anthem
-  </pre>
   <p style="color: #FFFFFF; font-style: italic;">A journey from raw synth beats to an anthem defying the Upside Down.</p>
 </div>
 
