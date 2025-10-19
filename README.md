@@ -107,7 +107,7 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,vue,nodejs,express,fastapi,django,flask&theme=dark" alt="Programming Skills: Python, HTML, CSS, JavaScript, TypeScript, Next.js, React, Vue, Node.js, Express, FastAPI, Django, Flask" />
     <br>
     <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style-for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Next.js-FFFFFF?style-for-the-badge&logo=next.js&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Next.js" />
   </p>
 
@@ -287,12 +287,23 @@
 
 ---
 
-## 🎵 Quantum Soundscape
+## 🎵 Synthwave Chronicles
 
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
-  <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🎵 Synthwave Resistance</h3>
-  <iframe style="border-radius:12px; border: 2px solid #FF0000;" src="https://open.spotify.com/embed/track/6peoK5vIgex17ROJFWvINS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <p style="color: #FFFFFF; font-style: italic;">Fueling the Upside Down with synthwave defiance.</p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" alt="Musical Notes" />
+    <br>
+    <a href="https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=2e402c0bac604e12"><img src="https://img.shields.io/badge/🎵_Kate_Bush-Running_Up_That_Hill-FFFFFF?style-for-the-badge&logo=spotify&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Kate Bush - Running Up That Hill on Spotify" /></a>
+  </p>
+  <pre style="color: #FFFFFF; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px;">
+2020: First Synth Beats
+2021: Retro Wave Vibes
+2022: Cosmic Synth Mix
+2023: Stranger Pulse
+2024: Quantum Defiance
+2025: Upside Down Anthem
+  </pre>
+  <p style="color: #FFFFFF; font-style: italic;">A journey from raw synth beats to an anthem defying the Upside Down.</p>
 </div>
 
 ---
