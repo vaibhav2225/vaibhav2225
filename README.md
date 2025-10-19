@@ -16,64 +16,72 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; padding: 25px; background: linear-gradient(45deg, #1C2526, #2D1B1B); border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000; color: #FFFFFF; font-family: 'Courier New', monospace;">
+<div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🔳 Quantum Core</h3>
+        <pre><code class="language-javascript" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; font-family: 'Courier New', monospace;">
+<span style="color: #FF4500;">class</span> VaibhavVerma <span style="color: #FF4500;">extends</span> QuantumInnovator {
+  <span style="color: #FF99AA;">constructor</span>() {
+    <span style="color: #FF99AA;">super</span>();
+    <span style="color: #66FFFF;">this.identity</span> = <span style="color: #FFD580;">"Vaibhav Verma"</span>;
+    <span style="color: #66FFFF;">this.realm</span> = <span style="color: #FFD580;">"The Upside Down 🌌"</span>;
+    <span style="color: #66FFFF;">this.missions</span> = [
+      <span style="color: #FFD580;">"⚡ NOVA-3B: Emotion-Aware AI"</span>,
+      <span style="color: #FFD580;">"🛍️ INSCIPE: Quantum Commerce Grid"</span>,
+      <span style="color: #FFD580;">"🤖 JARVIS: Automation Nexus"</span>,
+      <span style="color: #FFD580;">"📚 Arjun's Journey: Digital Chronicle"</span>
+    ];
+  }
 
-  <!-- Left Code Block -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🔳 Quantum Core</h3>
-    <pre style="flex: 1; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; overflow: auto; font-size: 14px; line-height: 1.4;">
-class VaibhavVerma extends QuantumInnovator {
-    constructor() {
-        super();
-        this.identity = "Vaibhav Verma";
-        this.realm = "The Upside Down 🌌";
-        this.missions = [
-            "⚡ NOVA-3B: Emotion-Aware AI",
-            "🛍️ INSCIPE: Quantum Commerce Grid",
-            "🤖 JARVIS: Automation Nexus",
-            "📚 Arjun's Journey: Digital Chronicle"
-        ];
-    }
+  <span style="color: #FF4500;">get</span> quantumCycle() {
+    <span style="color: #FF4500;">return</span> {
+      dawn: <span style="color: #FFD580;">"☕ Fuel + Neural Forge"</span>,
+      midday: <span style="color: #FFD580;">"🔥 Deploy AI Demogorgons"</span>,
+      dusk: <span style="color: #FFD580;">"📡 Optimize Quantum Systems"</span>,
+      night: <span style="color: #FFD580;">"🌌 Dream in Code Streams"</span>
+    };
+  }
 
-    get quantumCycle() {
-        return {
-            dawn: "☕ Fuel + Neural Forge",
-            midday: "🔥 Deploy AI Demogorgons",
-            dusk: "📡 Optimize Quantum Systems",
-            night: "🌌 Dream in Code Streams"
-        };
-    }
+  <span style="color: #FF4500;">get</span> coreDirectives() {
+    <span style="color: #FF4500;">return</span> [
+      <span style="color: #FFD580;">"🤖 Master AI & LLMs"</span>,
+      <span style="color: #FFD580;">"🛠️ Architect Full Stack Systems"</span>,
+      <span style="color: #FFD580;">"⚡ Precision Prompt Engineering"</span>,
+      <span style="color: #FFD580;">"🚀 Pioneer Quantum Ventures"</span>
+    ];
+  }
 }
-    </pre>
-  </div>
-
-  <!-- Right Code Block -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🌌 Quantum Matrix</h3>
-    <pre style="flex: 1; background: #1C2526; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; overflow: auto; font-size: 14px; line-height: 1.4;">
-class QuantumMatrix:
-    def __init__(self):
-        self.focus = {
-            "AI_Nexus": ["LLMs", "Emotion AI", "Automation"],
-            "Tech_Grid": ["Next.js", "FastAPI", "MongoDB"],
-            "Creative_Void": ["Music", "Writing", "Design"],
-            "Hardware_Core": ["Arduino", "Raspberry Pi"]
+        </code></pre>
+      </td>
+      <td width="50%" valign="top">
+        <h3 style="color: #FF4500; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🌌 Quantum Matrix</h3>
+        <pre><code class="language-python" style="background: #1C2526; color: #FFFFFF; border: 2px solid #FF0000; border-radius: 10px; padding: 15px; font-family: 'Courier New', monospace;">
+<span style="color: #FF4500;">class</span> QuantumMatrix:
+    <span style="color: #FF99AA;">def</span> <span style="color: #FF99AA;">__init__</span>(self):
+        <span style="color: #66FFFF;">self.focus</span> = {
+            <span style="color: #FFD580;">"AI_Nexus"</span>: [<span style="color: #FFD580;">"LLMs"</span>, <span style="color: #FFD580;">"Emotion AI"</span>, <span style="color: #FFD580;">"Automation"</span>],
+            <span style="color: #FFD580;">"Tech_Grid"</span>: [<span style="color: #FFD580;">"Next.js"</span>, <span style="color: #FFD580;">"FastAPI"</span>, <span style="color: #FFD580;">"MongoDB"</span>],
+            <span style="color: #FFD580;">"Creative_Void"</span>: [<span style="color: #FFD580;">"Music"</span>, <span style="color: #FFD580;">"Writing"</span>, <span style="color: #FFD580;">"Design"</span>],
+            <span style="color: #FFD580;">"Hardware_Core"</span>: [<span style="color: #FFD580;">"Arduino"</span>, <span style="color: #FFD580;">"Raspberry Pi"</span>]
         }
-
-    def upside_philosophy(self):
-        return """
-⚡ Ignite Quantum Innovation
-🌌 Fuse Code & Demogorgon Power
-🚀 Build with Stranger Precision
-🔳 Pulse Beyond the Void
-"""
-
-    def motto(self):
-        print("From Code to the Upside Down 🌌")
-        print("Eternal Quantum Impact 🔳")
-    </pre>
-  </div>
-
+        
+    <span style="color: #FF99AA;">def</span> upside_philosophy(self):
+        <span style="color: #FF4500;">return</span> <span style="color: #FFD580;">"""
+        ⚡ Ignite Quantum Innovation
+        🌌 Fuse Code & Demogorgon Power
+        🚀 Build with Stranger Precision
+        🔳 Pulse Beyond the Void
+        """</span>
+    
+    <span style="color: #FF99AA;">def</span> motto(self):
+        <span style="color: #66FFFF;">print</span>(<span style="color: #FFD580;">"From Code to the Upside Down 🌌"</span>)
+        <span style="color: #66FFFF;">print</span>(<span style="color: #FFD580;">"Eternal Quantum Impact 🔳"</span>)
+        </code></pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
