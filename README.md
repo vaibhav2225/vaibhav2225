@@ -1,7 +1,8 @@
 # Vaibhav Verma | Architect of the Upside Down
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=808080,FF0000&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=FFFFFF&textCase=upper" alt="Stranger Things Gray to Red Header: VAIBHAV](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=FFFFFF&textCase=upper&customColorList=555555,808080,B22222,FF0000)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VAIBHAV%20VERMA&fontSize=70&fontAlignY=40&animation=fadeIn&font=Creepster&color=FFFFFF&textCase=upper&customColorList=555555,808080,B22222,FF0000" alt="Stranger Things Gray to Red Header: VAIBHAV Verma" />
+
 
   <p style="color: #FF0000; font-family: 'Creepster', cursive; font-size: 1.4em; text-shadow: 0 0 10px #FF0000;">
     <strong>⚡ Master of AI Demogorgons | 🌌 Weaver of Quantum Code | 🚀 Builder of Upside Down Systems</strong>
