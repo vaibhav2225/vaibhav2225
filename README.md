@@ -94,18 +94,41 @@ class NeonMatrix:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🌐 Network Portal
 
 ## <span style="color: #f70b0b;">🌐 NEON NETWORK LINKS</span>
 
-<p>
-  <a href="https://vaibhav-verma.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Portfolio" /></a>
-  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF0000?style-for-the-badge&logo=gmail&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/"><img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style-for-the-badge&logo=linkedin&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/vaibhav_verma25_/"><img src="https://img.shields.io/badge/📸_Instagram-FF0000?style-for-the-badge&logo=instagram&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="Instagram" /></a>
-  <a href="https://huggingface.co/VAIBHAV22334455"><img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style-for-the-badge&logo=huggingface&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="HuggingFace" /></a>
-  <a href="https://github.com/vaibhav2225"><img src="https://img.shields.io/badge/💻_GitHub-FF0000?style-for-the-badge&logo=github&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" alt="GitHub" /></a>
+<p style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <a href="https://vaibhav-verma.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="Portfolio" style="height:50px;" />
+  </a>
+
+  <a href="mailto:v.v.a.i.b.h.a.v.2233@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="Email" style="height:50px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/vaibhav-verma-6548802a1/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="LinkedIn" style="height:50px;" />
+  </a>
+
+  <a href="https://www.instagram.com/vaibhav_verma25_/">
+    <img src="https://img.shields.io/badge/📸_Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="Instagram" style="height:50px;" />
+  </a>
+
+  <a href="https://huggingface.co/VAIBHAV22334455">
+    <img src="https://img.shields.io/badge/🤗_HuggingFace-FF0000?style=for-the-badge&logo=huggingface&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="HuggingFace" style="height:50px;" />
+  </a>
+
+  <a href="https://github.com/vaibhav2225">
+    <img src="https://img.shields.io/badge/💻_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=f70b0b&labelColor=1a1a1a&color=f70b0b" 
+         alt="GitHub" style="height:50px;" />
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
@@ -114,7 +137,7 @@ class NeonMatrix:
 <div align="center" style="background: linear-gradient(45deg, #1C2526, #2D1B1B); padding: 25px; border: 3px solid #FF0000; border-radius: 15px; box-shadow: 0 0 20px #FF0000;">
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">⚡ Programming & Development</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,vue,nodejs,express,fastapi,django,flask&theme=dark" alt="Programming Skills: Python, HTML, CSS, JavaScript, TypeScript, Next.js, React, Vue, Node.js, Express, FastAPI, Django, Flask" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,react,nodejs,flask&theme=dark" alt="Programming Skills: Python, HTML, CSS, JavaScript, TypeScript, Next.js, React,  Node.js, Express, FastAPI, Django, Flask" />
     <br>
     <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style-for-the-badge&logo=javascript&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="JavaScript" />
@@ -141,7 +164,7 @@ class NeonMatrix:
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🛠️ Tools & Infrastructure</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,vscode,raspberrypi,arduino&theme=dark" alt="Tools: Docker, Git, Linux, AWS, GCP, VS Code, Raspberry Pi, Arduino" />
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,gcp,vscode,raspberrypi,arduino&theme=dark" alt="Tools: Docker, Git, Linux,GCP, VS Code, Raspberry Pi, Arduino" />
     <br>
     <img src="https://img.shields.io/badge/Docker-FFFFFF?style-for-the-badge&logo=docker&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Docker" />
     <img src="https://img.shields.io/badge/AWS-FFFFFF?style-for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="AWS" />
@@ -346,7 +369,7 @@ pie title Focus
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,CC0000,990000&height=100&section=footer&font=Creepster&color=FFFFFF" alt="Footer with red Stranger Things wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,CC0000,990000&height=100&section=footer&font=Creepster&color=FFFFFF" alt="Footer with red Stranger Things wave" />
   <p style="color: #FFFFFF; font-style: italic;">"The pulse of quantum code lights the path to the stars." - Vaibhav Verma</p>
   <p style="color: #FFFFFF;"><strong>Crafted with ⚡ and ☕ in the Quantum Forge</strong></p>
 </div>
