@@ -138,7 +138,7 @@ class NeonMatrix:
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">⚡ Programming & Development</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,nextjs,react,nodejs,flask,django&theme=dark" 
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,nextjs,react,nodejs,flask&theme=dark" 
          alt="Programming Skills" />
   </p>
 
@@ -166,7 +166,7 @@ class NeonMatrix:
 
   <h3 style="color: #FF0000; font-family: 'Creepster', cursive; text-shadow: 0 0 10px #FF0000;">🎨 Creative & Other Skills</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=photoshop,blender,illustrator,premierepro,robloxstudio,unity,unreal&theme=dark" alt="Creative & Other Skills" />
+    <img src="https://skillicons.dev/icons?i=photoshop,blender,illustrator,pr,robloxstudio,unity,unreal&theme=dark" alt="Creative & Other Skills" />
     <br>
     <img src="https://img.shields.io/badge/Instagram-FFFFFF?style-for-the-badge&logo=instagram&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Instagram" />
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style-for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="LinkedIn" />
@@ -320,7 +320,7 @@ pie title Focus
         <p><img src="https://img.shields.io/badge/Impact-Create_Lasting_Change-FFFFFF?style-for-the-badge&logo=bullseye&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Impact: Create Lasting Change" /></p>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hand%20with%20Fingers%20Splayed.png" width="50" alt="Hand representing Inclusivity" />
+        <img src="https://github.com/vaibhav2225/vaibhav2225/blob/main/1995630.png" width="50" alt="Hand representing Inclusivity" />
         <br><strong style="color: #FF0000; font-family: 'Creepster', cursive;">Inclusivity</strong>
         <br><sub style="color: #FFFFFF;">Tech for All</sub>
         <p><img src="https://img.shields.io/badge/Inclusivity-Tech_for_All-FFFFFF?style-for-the-badge&logo=users&logoColor=FF0000&labelColor=1C2526&color=FF0000" alt="Inclusivity: Tech for All" /></p>
@@ -364,7 +364,7 @@ pie title Focus
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,CC0000,990000&height=100&section=footer&font=Creepster&color=FFFFFF" alt="Footer with red Stranger Things wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,8B0000,8B0000&height=100&section=footer&font=Creepster&color=FFFFFF" alt="Footer with red Stranger Things wave" />
   <p style="color: #FFFFFF; font-style: italic;">"The pulse of quantum code lights the path to the stars." - Vaibhav Verma</p>
   <p style="color: #FFFFFF;"><strong>Crafted with ⚡ and ☕ in the Quantum Forge</strong></p>
 </div>
